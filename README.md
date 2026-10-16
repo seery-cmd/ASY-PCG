@@ -2,7 +2,7 @@
 
 precondition为PCG求解器代码
 
-src为SpMV算子优化代码
+src为SpMV算子优化代码，```主要参考SpMV优化和PCG选择器设计```
 
 请使用makefile执行文件
 
