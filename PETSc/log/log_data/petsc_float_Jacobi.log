@@ -1,0 +1,407 @@
+/home/xiaogq/Seery-experiment/datasets/af_0_k101/af_0_k101.mtx
+rowNum=503625,colNum=503625,nnzNum=17550675
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.946586
+number1=0.936106
+number2=-0.355180
+number3=0.994604
+number4=0.998362
+number5=0.946518
+number6=0.936149
+number7=-0.351539
+number8=0.994690
+number9=0.998388
+
+Convergence in 997 iterations.
+
+timecost:63125.723000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/af_shell3/af_shell3.mtx
+rowNum=504855,colNum=504855,nnzNum=17588875
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=1.004970
+number1=1.001737
+number2=1.000005
+number3=1.004964
+number4=1.001739
+number5=1.004971
+number6=1.001740
+number7=1.000010
+number8=1.004962
+number9=1.001748
+
+Convergence in 1194 iterations.
+
+timecost:76358.377000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/bcsstk36/bcsstk36.mtx
+rowNum=23052,colNum=23052,nnzNum=1143140
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=1.000013
+number1=0.999972
+number2=0.999982
+number3=0.999718
+number4=0.997299
+number5=1.000047
+number6=0.999988
+number7=1.000026
+number8=0.999978
+number9=1.000269
+
+Convergence in 2515 iterations.
+
+timecost:11066.118000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/bmw7st_1/bmw7st_1.mtx
+rowNum=141347,colNum=141347,nnzNum=7339667
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=-6175.653809
+number1=521.039246
+number2=-1013.043823
+number3=8.193641
+number4=11.387390
+number5=1.708491
+number6=-6175.179199
+number7=519.762207
+number8=-1082.212402
+number9=4.883442
+
+Other kind of divergence: this should not happen.
+
+没有收敛
+
+Convergence in 13382 iterations.
+
+timecost:400279.269000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/bmwcra_1/bmwcra_1.mtx
+rowNum=148770,colNum=148770,nnzNum=10644002
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=1.020402
+number1=1.067290
+number2=0.600480
+number3=1.019830
+number4=1.067338
+number5=0.600973
+number6=1.018770
+number7=1.067475
+number8=0.601452
+number9=1.015807
+
+Convergence in 7270 iterations.
+
+timecost:280129.686000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/boneS01/boneS01.mtx
+rowNum=127224,colNum=127224,nnzNum=6715152
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.994592
+number1=0.920331
+number2=1.078174
+number3=0.994593
+number4=0.920394
+number5=1.077991
+number6=0.994636
+number7=0.920850
+number8=1.076734
+number9=0.994637
+
+Convergence in 1391 iterations.
+
+timecost:34825.445000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/cfd2/cfd2.mtx
+rowNum=123440,colNum=123440,nnzNum=3087898
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.999501
+number1=1.000058
+number2=0.999526
+number3=0.999789
+number4=0.999534
+number5=0.999712
+number6=0.999511
+number7=0.999694
+number8=0.999450
+number9=0.999711
+
+Convergence in 995 iterations.
+
+timecost:24033.074000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/ct20stif/ct20stif.mtx
+rowNum=52329,colNum=52329,nnzNum=2698463
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=-0.235746
+number1=-0.722407
+number2=0.418401
+number3=1.000895
+number4=0.995593
+number5=0.993734
+number6=-0.334688
+number7=-0.820274
+number8=0.473332
+number9=1.000951
+
+Convergence in 711 iterations.
+
+timecost:8398.248000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/ex5/ex5.mtx
+rowNum=27,colNum=27,nnzNum=279
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.991407
+number1=1.043479
+number2=1.043598
+number3=1.087363
+number4=1.087587
+number5=1.117367
+number6=1.137810
+number7=1.170776
+number8=1.069559
+number9=0.999086
+
+Convergence in 2313 iterations.
+
+timecost:51.913000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/gyro/gyro.mtx
+rowNum=17361,colNum=17361,nnzNum=1021159
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=1.000018
+number1=1.000023
+number2=0.999974
+number3=0.999987
+number4=1.000004
+number5=0.999994
+number6=0.999996
+number7=1.000008
+number8=0.999970
+number9=0.999988
+
+Convergence in 2688 iterations.
+
+timecost:10260.174000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/hood/hood.mtx
+rowNum=220542,colNum=220542,nnzNum=10768436
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=1.000877
+number1=0.999796
+number2=0.998858
+number3=1.000131
+number4=1.000015
+number5=0.999952
+number6=1.000085
+number7=0.999913
+number8=1.000039
+number9=1.000018
+
+Convergence in 1142 iterations.
+
+timecost:49901.119000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/inline_1/inline_1.mtx
+rowNum=503712,colNum=503712,nnzNum=36816342
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.988860
+number1=1.031981
+number2=0.194958
+number3=0.989352
+number4=1.032459
+number5=0.198390
+number6=0.989874
+number7=1.032988
+number8=0.201741
+number9=0.990944
+
+Convergence in 5805 iterations.
+
+timecost:774398.468000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/msc10848/msc10848.mtx
+rowNum=10848,colNum=10848,nnzNum=1229778
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=1.251883
+number1=0.243287
+number2=1.317765
+number3=0.997766
+number4=1.008656
+number5=1.010164
+number6=-0.127432
+number7=0.189932
+number8=0.191257
+number9=0.994465
+
+Convergence in 1220 iterations.
+
+timecost:4994.435000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/msdoor/msdoor.mtx
+rowNum=415863,colNum=415863,nnzNum=20240935
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=1.000503
+number1=1.009117
+number2=0.995488
+number3=0.999577
+number4=1.000022
+number5=1.007926
+number6=0.995779
+number7=1.000203
+number8=1.009394
+number9=0.996679
+
+Convergence in 2405 iterations.
+
+timecost:198254.429000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/nasasrb/nasasrb.mtx
+rowNum=54870,colNum=54870,nnzNum=2677324
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.999501
+number1=-0.433245
+number2=-0.425696
+number3=0.993812
+number4=0.994229
+number5=0.995294
+number6=1.009997
+number7=-0.410265
+number8=-0.399377
+number9=0.954001
+
+Convergence in 1556 iterations.
+
+timecost:18110.060000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/nd24k/nd24k.mtx
+rowNum=72000,colNum=72000,nnzNum=28715634
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.999212
+number1=0.999592
+number2=1.000001
+number3=0.999200
+number4=0.999593
+number5=1.000013
+number6=0.999192
+number7=0.999586
+number8=1.000013
+number9=0.999192
+
+Convergence in 12851 iterations.
+
+timecost:2377702.273000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/pdb1HYS/pdb1HYS.mtx
+rowNum=36417,colNum=36417,nnzNum=4344765
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=-23.907104
+number1=4.700812
+number2=4.276459
+number3=-23.724928
+number4=4.971620
+number5=4.529226
+number6=-23.878286
+number7=5.492791
+number8=5.992924
+number9=-23.157705
+
+Other kind of divergence: this should not happen.
+
+没有收敛
+
+Convergence in 1281 iterations.
+
+timecost:18525.648000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/pwtk/pwtk.mtx
+rowNum=217918,colNum=217918,nnzNum=11634424
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.970620
+number1=0.999871
+number2=0.995875
+number3=0.999585
+number4=1.000198
+number5=0.999812
+number6=0.971236
+number7=1.002923
+number8=0.995759
+number9=0.999924
+
+Convergence in 5856 iterations.
+
+timecost:261221.621000 ms
+------------------------------
+/home/xiaogq/Seery-experiment/datasets/ship_003/ship_003.mtx
+rowNum=121728,colNum=121728,nnzNum=8086034
+value数据类型:32
+petsc_scala数据类型:32
+
+开始求解
+number0=0.914218
+number1=1.023894
+number2=1.540145
+number3=0.999623
+number4=0.999725
+number5=0.999975
+number6=0.000599
+number7=0.305489
+number8=1.739405
+number9=0.999660
+
+Convergence in 2410 iterations.
+
+timecost:72648.184000 ms
+------------------------------
