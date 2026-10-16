@@ -1,0 +1,9 @@
+鲲鹏920上使用NEON指令加速PCG求解器
+
+precondition为PCG求解器代码
+
+src为SpMV算子优化代码
+
+请使用makefile执行文件
+
+需要下载最新版petsc，kml数学库
