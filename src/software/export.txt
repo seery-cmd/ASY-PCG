@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/hw_EMatrix/seery/src/software/kml/lib/neon:/home/hw_EMatrix/seery/src/software/kml/lib/noarch:/home/hw_EMatrix/seery/src/software/kml/lib/noarch/kvml/single:/home/hw_EMatrix/seery/src/software/kml/lib/neon/kspblas/multi:/home/hw_EMatrix/seery/src/software/kml/lib/neon/kblas/multi:/home/hw_EMatrix/seery/src/software/kml/lib:${LD_LIBRARY_PATH}

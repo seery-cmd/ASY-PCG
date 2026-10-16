@@ -1,0 +1,3115 @@
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/2cubes_sphere/2cubes_sphere.mtx,101492,101492,1647264
+cpu_CSR time cost 3.522300 ms
+neon_CSR time cost 3.434900 ms
+CSR error:0
+neon_ell time cost 3.163500 ms
+ell error:0
+neon_ACSR time cost 5.242800 ms
+ACSR error:0
+sy_mtx time cost 4.923400 ms
+symtx error:0
+kml time cost 3.033700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1647264,1648760,3068472,2863304]
+mtx:/home/data/suitesparse_collection/2D_27628_bjtcai/2D_27628_bjtcai.mtx,27628,27628,442898
+cpu_CSR time cost 0.811400 ms
+neon_CSR time cost 0.787900 ms
+CSR error:0
+neon_ell time cost 0.733000 ms
+ell error:0
+neon_ACSR time cost 0.726800 ms
+ACSR error:0
+sy_mtx time cost 0.671800 ms
+symtx error:0
+kml time cost 0.701300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[442898,443376,512260,454220]
+mtx:/home/data/suitesparse_collection/2D_54019_highK/2D_54019_highK.mtx,54019,54019,996414
+cpu_CSR time cost 1.875500 ms
+neon_CSR time cost 1.776000 ms
+CSR error:0
+neon_ell time cost 1.741200 ms
+error! tid=53788 12.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.653900 ms
+ACSR error:0
+sy_mtx time cost 1.468800 ms
+error! tid=54018 229.000000,0.000000
+symtx error:1
+kml time cost 1.548700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[996414,998496,1127692,1020604]
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/3D_28984_Tetra/3D_28984_Tetra.mtx,28984,28984,599170
+cpu_CSR time cost 1.175500 ms
+neon_CSR time cost 1.076800 ms
+CSR error:0
+neon_ell time cost 1.017100 ms
+ell error:0
+neon_ACSR time cost 0.965200 ms
+ACSR error:0
+sy_mtx time cost 0.901000 ms
+symtx error:0
+kml time cost 0.971400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[599170,600180,703700,608848]
+mtx:/home/data/suitesparse_collection/3D_51448_3D/3D_51448_3D.mtx,51448,51448,1056610
+cpu_CSR time cost 2.033700 ms
+neon_CSR time cost 1.924700 ms
+CSR error:0
+neon_ell time cost 1.875500 ms
+ell error:0
+neon_ACSR time cost 1.802500 ms
+ACSR error:0
+sy_mtx time cost 1.567900 ms
+symtx error:0
+kml time cost 1.693400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1056610,1059568,1239620,1068570]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/a0nsdsil/a0nsdsil.mtx,80016,80016,355034
+cpu_CSR time cost 1.008000 ms
+neon_CSR time cost 1.339300 ms
+CSR error:0
+neon_ell time cost 0.910600 ms
+ell error:0
+neon_ACSR time cost 1.370700 ms
+ACSR error:0
+sy_mtx time cost 0.954800 ms
+symtx error:0
+kml time cost 1.013800 ms
+error! tid=0 5003.000000,5002.000000
+kml error:5004
+partition:CSR-ELL-ACSR-SY[355034,355048,670072,355056]
+mtx:/home/data/suitesparse_collection/a2nnsnsl/a2nnsnsl.mtx,80016,80016,347222
+cpu_CSR time cost 1.004200 ms
+neon_CSR time cost 1.305300 ms
+CSR error:0
+neon_ell time cost 0.950600 ms
+ell error:0
+neon_ACSR time cost 1.360200 ms
+ACSR error:0
+sy_mtx time cost 0.983100 ms
+symtx error:0
+kml time cost 0.986000 ms
+error! tid=0 4035.000000,4034.000000
+kml error:4036
+partition:CSR-ELL-ACSR-SY[347222,349208,657308,352994]
+mtx:/home/data/suitesparse_collection/a5esindl/a5esindl.mtx,60008,60008,255004
+cpu_CSR time cost 0.684800 ms
+neon_CSR time cost 0.943300 ms
+CSR error:0
+neon_ell time cost 0.654600 ms
+ell error:0
+neon_ACSR time cost 0.966900 ms
+ACSR error:0
+sy_mtx time cost 0.610200 ms
+symtx error:0
+kml time cost 0.671400 ms
+error! tid=0 5003.000000,5002.000000
+kml error:5004
+partition:CSR-ELL-ACSR-SY[255004,260002,485020,255028]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/ABACUS_shell_ud/ABACUS_shell_ud.mtx,23412,23412,218484
+cpu_CSR time cost 0.406100 ms
+neon_CSR time cost 0.410300 ms
+CSR error:0
+neon_ell time cost 0.363900 ms
+ell error:0
+neon_ACSR time cost 0.546300 ms
+ACSR error:0
+sy_mtx time cost 0.556600 ms
+symtx error:0
+kml time cost 0.393500 ms
+error! tid=0 8.000000,6.000000
+kml error:8
+partition:CSR-ELL-ACSR-SY[218484,218628,392920,361986]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/ACTIVSg10K/ACTIVSg10K.mtx,20000,20000,137736
+cpu_CSR time cost 0.306200 ms
+neon_CSR time cost 0.315100 ms
+CSR error:0
+neon_ell time cost 0.237500 ms
+ell error:0
+neon_ACSR time cost 0.351800 ms
+ACSR error:0
+sy_mtx time cost 0.383600 ms
+symtx error:0
+kml time cost 0.333100 ms
+error! tid=0 6.000000,4.000000
+kml error:6
+partition:CSR-ELL-ACSR-SY[137736,138152,221472,201624]
+mtx:/home/data/suitesparse_collection/ACTIVSg2000/ACTIVSg2000.mtx,4000,4000,29336
+cpu_CSR time cost 0.060200 ms
+neon_CSR time cost 0.061200 ms
+CSR error:0
+neon_ell time cost 0.043800 ms
+ell error:0
+neon_ACSR time cost 0.071600 ms
+ACSR error:0
+sy_mtx time cost 0.068500 ms
+symtx error:0
+kml time cost 0.060400 ms
+error! tid=0 6.000000,4.000000
+kml error:6
+partition:CSR-ELL-ACSR-SY[29336,29432,51896,45720]
+mtx:/home/data/suitesparse_collection/ACTIVSg70K/ACTIVSg70K.mtx,69999,69999,238627
+cpu_CSR time cost 0.876200 ms
+neon_CSR time cost 1.019300 ms
+CSR error:0
+neon_ell time cost 0.560200 ms
+error! tid=69790 2.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.979800 ms
+ACSR error:0
+sy_mtx time cost 1.142800 ms
+error! tid=69998 2.000000,0.000000
+symtx error:1
+kml time cost 0.847200 ms
+error! tid=0 3.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[238627,239396,391068,351190]
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/add32/add32.mtx,4960,4960,23884
+cpu_CSR time cost 0.048000 ms
+neon_CSR time cost 0.066300 ms
+CSR error:0
+neon_ell time cost 0.039100 ms
+ell error:0
+neon_ACSR time cost 0.063700 ms
+ACSR error:0
+sy_mtx time cost 0.066100 ms
+symtx error:0
+kml time cost 0.047300 ms
+error! tid=0 29.000000,27.000000
+kml error:29
+partition:CSR-ELL-ACSR-SY[23884,23942,31744,28996]
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/af_0_k101/af_0_k101.mtx,503625,503625,17550675
+cpu_CSR time cost 45.221600 ms
+neon_CSR time cost 38.533500 ms
+CSR error:0
+neon_ell time cost 40.539400 ms
+error! tid=503460 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.769100 ms
+ACSR error:0
+sy_mtx time cost 24.794400 ms
+error! tid=503624 20.000000,0.000000
+symtx error:1
+kml time cost 23.100400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17550675,17550920,19048020,17652476]
+mtx:/home/data/suitesparse_collection/af_1_k101/af_1_k101.mtx,503625,503625,17550675
+cpu_CSR time cost 44.988600 ms
+neon_CSR time cost 38.359200 ms
+CSR error:0
+neon_ell time cost 40.258200 ms
+error! tid=503460 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.646100 ms
+ACSR error:0
+sy_mtx time cost 24.515800 ms
+error! tid=503624 20.000000,0.000000
+symtx error:1
+kml time cost 23.119900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17550675,17550920,19048020,17652476]
+mtx:/home/data/suitesparse_collection/af23560/af23560.mtx,23560,23560,484256
+cpu_CSR time cost 0.881900 ms
+neon_CSR time cost 0.819700 ms
+CSR error:0
+neon_ell time cost 0.780800 ms
+ell error:0
+neon_ACSR time cost 0.756500 ms
+ACSR error:0
+sy_mtx time cost 0.631500 ms
+symtx error:0
+kml time cost 0.722300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[484256,484256,597728,484256]
+mtx:/home/data/suitesparse_collection/af_2_k101/af_2_k101.mtx,503625,503625,17550675
+cpu_CSR time cost 44.961400 ms
+neon_CSR time cost 38.324500 ms
+CSR error:0
+neon_ell time cost 40.318900 ms
+error! tid=503460 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.570600 ms
+ACSR error:0
+sy_mtx time cost 24.976700 ms
+error! tid=503624 20.000000,0.000000
+symtx error:1
+kml time cost 23.950400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17550675,17550920,19048020,17652476]
+mtx:/home/data/suitesparse_collection/af_3_k101/af_3_k101.mtx,503625,503625,17550675
+cpu_CSR time cost 45.023600 ms
+neon_CSR time cost 38.334100 ms
+CSR error:0
+neon_ell time cost 40.223800 ms
+error! tid=503460 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.671100 ms
+ACSR error:0
+sy_mtx time cost 24.680300 ms
+error! tid=503624 20.000000,0.000000
+symtx error:1
+kml time cost 23.036000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17550675,17550920,19048020,17652476]
+mtx:/home/data/suitesparse_collection/af_4_k101/af_4_k101.mtx,503625,503625,17550675
+cpu_CSR time cost 44.690800 ms
+neon_CSR time cost 37.564000 ms
+CSR error:0
+neon_ell time cost 40.035900 ms
+error! tid=503460 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.325800 ms
+ACSR error:0
+sy_mtx time cost 24.835400 ms
+error! tid=503624 20.000000,0.000000
+symtx error:1
+kml time cost 23.662900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17550675,17550920,19048020,17652476]
+mtx:/home/data/suitesparse_collection/af_5_k101/af_5_k101.mtx,503625,503625,17550675
+cpu_CSR time cost 44.766700 ms
+neon_CSR time cost 37.913400 ms
+CSR error:0
+neon_ell time cost 40.143000 ms
+error! tid=503460 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.238400 ms
+ACSR error:0
+sy_mtx time cost 24.595400 ms
+error! tid=503624 20.000000,0.000000
+symtx error:1
+kml time cost 22.924900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17550675,17550920,19048020,17652476]
+mtx:/home/data/suitesparse_collection/af_shell1/af_shell1.mtx,504855,504855,17588875
+cpu_CSR time cost 42.560600 ms
+neon_CSR time cost 35.755100 ms
+CSR error:0
+neon_ell time cost 38.002100 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 32.181400 ms
+ACSR error:0
+sy_mtx time cost 24.782400 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.397300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell10/af_shell10.mtx,1508065,1508065,52672325
+cpu_CSR time cost 153.526000 ms
+neon_CSR time cost 128.587100 ms
+CSR error:0
+neon_ell time cost 155.345400 ms
+error! tid=1508064 15.000000,0.000000
+ell error:1
+neon_ACSR time cost 118.674500 ms
+ACSR error:0
+sy_mtx time cost 78.495300 ms
+error! tid=1508064 15.000000,0.000000
+symtx error:1
+kml time cost 75.130400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[52672325,52672500,57179790,52974182]
+mtx:/home/data/suitesparse_collection/af_shell2/af_shell2.mtx,504855,504855,17588875
+cpu_CSR time cost 45.327900 ms
+neon_CSR time cost 38.175600 ms
+CSR error:0
+neon_ell time cost 40.724900 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.482600 ms
+ACSR error:0
+sy_mtx time cost 24.878400 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.084000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell3/af_shell3.mtx,504855,504855,17588875
+cpu_CSR time cost 42.395100 ms
+neon_CSR time cost 35.678900 ms
+CSR error:0
+neon_ell time cost 37.968700 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 32.081800 ms
+ACSR error:0
+sy_mtx time cost 24.484300 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.564600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell4/af_shell4.mtx,504855,504855,17588875
+cpu_CSR time cost 42.570300 ms
+neon_CSR time cost 35.627800 ms
+CSR error:0
+neon_ell time cost 42.082100 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 36.821900 ms
+ACSR error:0
+sy_mtx time cost 24.452200 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.297000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell5/af_shell5.mtx,504855,504855,17588875
+cpu_CSR time cost 45.107100 ms
+neon_CSR time cost 38.470100 ms
+CSR error:0
+neon_ell time cost 40.508800 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.318600 ms
+ACSR error:0
+sy_mtx time cost 24.950000 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.624500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell6/af_shell6.mtx,504855,504855,17588875
+cpu_CSR time cost 45.202100 ms
+neon_CSR time cost 38.136700 ms
+CSR error:0
+neon_ell time cost 40.460100 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.432300 ms
+ACSR error:0
+sy_mtx time cost 25.354200 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.591700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell7/af_shell7.mtx,504855,504855,17588875
+cpu_CSR time cost 45.206100 ms
+neon_CSR time cost 38.511100 ms
+CSR error:0
+neon_ell time cost 40.543700 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.338600 ms
+ACSR error:0
+sy_mtx time cost 24.804000 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.683900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell8/af_shell8.mtx,504855,504855,17588875
+cpu_CSR time cost 45.245100 ms
+neon_CSR time cost 38.615400 ms
+CSR error:0
+neon_ell time cost 40.529300 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.521200 ms
+ACSR error:0
+sy_mtx time cost 25.633900 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.549100 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/af_shell9/af_shell9.mtx,504855,504855,17588875
+cpu_CSR time cost 45.492100 ms
+neon_CSR time cost 37.306600 ms
+CSR error:0
+neon_ell time cost 40.140300 ms
+error! tid=504843 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 34.124100 ms
+ACSR error:0
+sy_mtx time cost 24.415800 ms
+error! tid=504854 25.000000,0.000000
+symtx error:1
+kml time cost 23.572100 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[17588875,17592940,19089280,17691248]
+mtx:/home/data/suitesparse_collection/aft01/aft01.mtx,8205,8205,125567
+cpu_CSR time cost 0.220500 ms
+neon_CSR time cost 0.205100 ms
+CSR error:0
+neon_ell time cost 0.188000 ms
+error! tid=8197 8.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.189800 ms
+ACSR error:0
+sy_mtx time cost 0.167200 ms
+error! tid=8204 8.000000,0.000000
+symtx error:1
+kml time cost 0.188400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[125567,125662,154972,136158]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/airfoil_2d/airfoil_2d.mtx,14214,14214,259688
+cpu_CSR time cost 0.480400 ms
+neon_CSR time cost 0.461400 ms
+CSR error:0
+neon_ell time cost 0.411800 ms
+ell error:0
+neon_ACSR time cost 0.633400 ms
+ACSR error:0
+sy_mtx time cost 0.653000 ms
+symtx error:0
+kml time cost 0.408600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[259688,259988,486042,452146]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/analytics/analytics.mtx,303813,303813,2006126
+cpu_CSR time cost 7.123800 ms
+neon_CSR time cost 6.130000 ms
+CSR error:0
+neon_ell time cost 5.859100 ms
+error! tid=303714 2.000000,0.000000
+ell error:1
+neon_ACSR time cost 9.180600 ms
+ACSR error:0
+sy_mtx time cost 7.024300 ms
+error! tid=303812 2.000000,0.000000
+symtx error:1
+kml time cost 6.810500 ms
+error! tid=0 256.000000,254.000000
+kml error:256
+partition:CSR-ELL-ACSR-SY[2006126,2030690,3459242,2409436]
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/apache1/apache1.mtx,80800,80800,542184
+cpu_CSR time cost 1.117400 ms
+neon_CSR time cost 1.214000 ms
+CSR error:0
+neon_ell time cost 1.077800 ms
+ell error:0
+neon_ACSR time cost 1.481300 ms
+ACSR error:0
+sy_mtx time cost 1.116200 ms
+symtx error:0
+kml time cost 0.983700 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[542184,542258,922768,543184]
+mtx:/home/data/suitesparse_collection/apache2/apache2.mtx,715176,715176,4817870
+cpu_CSR time cost 14.569600 ms
+neon_CSR time cost 14.557800 ms
+CSR error:0
+neon_ell time cost 14.412900 ms
+ell error:0
+neon_ACSR time cost 17.699200 ms
+ACSR error:0
+sy_mtx time cost 15.000800 ms
+symtx error:0
+kml time cost 12.153100 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[4817870,4818458,8205388,4820846]
+mtx:/home/data/suitesparse_collection/appu/appu.mtx,14000,14000,1853104
+cpu_CSR time cost 3.987100 ms
+neon_CSR time cost 3.300100 ms
+CSR error:0
+neon_ell time cost 3.401600 ms
+ell error:0
+neon_ACSR time cost 6.017200 ms
+ACSR error:0
+sy_mtx time cost 5.937100 ms
+symtx error:0
+kml time cost 2.819100 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1853104,1856324,3669170,3621652]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/ASIC_100k/ASIC_100k.mtx,99340,99340,954163
+cpu_CSR time cost 2.481900 ms
+neon_CSR time cost 2.599800 ms
+CSR error:0
+neon_ell time cost 2.371800 ms
+ell error:0
+neon_ACSR time cost 2.724200 ms
+ACSR error:0
+sy_mtx time cost 2.943900 ms
+symtx error:0
+kml time cost 2.510200 ms
+error! tid=0 3.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[954163,972470,1425050,1166008]
+mtx:/home/data/suitesparse_collection/ASIC_100ks/ASIC_100ks.mtx,99190,99190,578890
+cpu_CSR time cost 1.479400 ms
+neon_CSR time cost 1.919300 ms
+CSR error:0
+neon_ell time cost 1.255000 ms
+ell error:0
+neon_ACSR time cost 1.709400 ms
+ACSR error:0
+sy_mtx time cost 2.060800 ms
+symtx error:0
+kml time cost 1.495600 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[578890,583154,847166,753818]
+mtx:/home/data/suitesparse_collection/ASIC_320k/ASIC_320k.mtx,321821,321821,2635364
+cpu_CSR time cost 9.153700 ms
+neon_CSR time cost 10.986000 ms
+CSR error:0
+neon_ell time cost 9.687800 ms
+error! tid=321678 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 11.168900 ms
+ACSR error:0
+sy_mtx time cost 11.433300 ms
+error! tid=321820 4.000000,0.000000
+symtx error:1
+kml time cost 8.863300 ms
+error! tid=0 7.000000,5.000000
+kml error:7
+partition:CSR-ELL-ACSR-SY[2635364,3053400,4307138,3415002]
+mtx:/home/data/suitesparse_collection/ASIC_320ks/ASIC_320ks.mtx,321671,321671,1827807
+cpu_CSR time cost 5.038000 ms
+neon_CSR time cost 5.580100 ms
+CSR error:0
+neon_ell time cost 4.688800 ms
+error! tid=321627 3.000000,0.000000
+ell error:1
+neon_ACSR time cost 6.721100 ms
+ACSR error:0
+sy_mtx time cost 6.650600 ms
+error! tid=321670 14.000000,0.000000
+symtx error:1
+kml time cost 4.843900 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[1827807,1839558,2764128,2257942]
+mtx:/home/data/suitesparse_collection/ASIC_680k/ASIC_680k.mtx,682862,682862,3871773
+cpu_CSR time cost 13.448000 ms
+neon_CSR time cost 14.986500 ms
+CSR error:0
+neon_ell time cost 15.021700 ms
+ell error:0
+neon_ACSR time cost 16.007600 ms
+ACSR error:0
+sy_mtx time cost 14.307300 ms
+symtx error:0
+kml time cost 12.680600 ms
+error! tid=0 3.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[3871773,4649244,6097048,4249578]
+mtx:/home/data/suitesparse_collection/ASIC_680ks/ASIC_680ks.mtx,682712,682712,2329176
+cpu_CSR time cost 12.319400 ms
+neon_CSR time cost 10.038500 ms
+CSR error:0
+neon_ell time cost 7.776600 ms
+ell error:0
+neon_ACSR time cost 13.814500 ms
+ACSR error:0
+sy_mtx time cost 9.879300 ms
+symtx error:0
+kml time cost 9.337500 ms
+error! tid=0 2.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[2329176,2345490,3757842,2595262]
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/astro-ph/astro-ph.mtx,16706,16706,242502
+cpu_CSR time cost 0.523200 ms
+neon_CSR time cost 0.531000 ms
+CSR error:0
+neon_ell time cost 0.436100 ms
+ell error:0
+neon_ACSR time cost 0.552700 ms
+ACSR error:0
+sy_mtx time cost 0.609400 ms
+symtx error:0
+kml time cost 0.520500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[242502,245026,375684,343556]
+mtx:/home/data/suitesparse_collection/atmosmodd/atmosmodd.mtx,1270432,1270432,8814880
+cpu_CSR time cost 26.649900 ms
+neon_CSR time cost 27.806900 ms
+CSR error:0
+neon_ell time cost 45.422400 ms
+ell error:0
+neon_ACSR time cost 42.129700 ms
+ACSR error:0
+sy_mtx time cost 29.749200 ms
+symtx error:0
+kml time cost 23.605900 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[8814880,8815140,15088896,8832048]
+mtx:/home/data/suitesparse_collection/atmosmodj/atmosmodj.mtx,1270432,1270432,8814880
+cpu_CSR time cost 25.454600 ms
+neon_CSR time cost 26.402200 ms
+CSR error:0
+neon_ell time cost 26.143300 ms
+ell error:0
+neon_ACSR time cost 33.593400 ms
+ACSR error:0
+sy_mtx time cost 26.022500 ms
+symtx error:0
+kml time cost 21.282800 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[8814880,8815140,15088896,8832048]
+mtx:/home/data/suitesparse_collection/atmosmodl/atmosmodl.mtx,1489752,1489752,10319760
+cpu_CSR time cost 32.152900 ms
+neon_CSR time cost 34.895800 ms
+CSR error:0
+neon_ell time cost 33.085400 ms
+ell error:0
+neon_ACSR time cost 43.747000 ms
+ACSR error:0
+sy_mtx time cost 32.316300 ms
+symtx error:0
+kml time cost 25.422300 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[10319760,10319924,17660016,10334808]
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/audikw_1/audikw_1.mtx,943695,943695,77651847
+cpu_CSR time cost 211.871000 ms
+neon_CSR time cost 181.083400 ms
+CSR error:0
+neon_ell time cost 186.498300 ms
+error! tid=943689 45.000000,0.000000
+ell error:1
+neon_ACSR time cost 163.248600 ms
+ACSR error:0
+sy_mtx time cost 130.320200 ms
+error! tid=943694 69.000000,0.000000
+symtx error:1
+kml time cost 107.144000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[77651847,77726088,89554332,80445702]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/aug3dcqp/aug3dcqp.mtx,35543,35543,128115
+cpu_CSR time cost 0.331400 ms
+neon_CSR time cost 0.338400 ms
+CSR error:0
+neon_ell time cost 0.272100 ms
+error! tid=35532 6.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.466000 ms
+ACSR error:0
+sy_mtx time cost 0.382200 ms
+error! tid=35542 6.000000,0.000000
+symtx error:1
+kml time cost 0.285200 ms
+error! tid=0 3.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[128115,128140,220366,177156]
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/av41092/av41092.mtx,41092,41092,1683902
+cpu_CSR time cost 3.614100 ms
+neon_CSR time cost 2.956400 ms
+CSR error:0
+neon_ell time cost 2.862100 ms
+ell error:0
+neon_ACSR time cost 2.737600 ms
+ACSR error:0
+sy_mtx time cost 2.588200 ms
+symtx error:0
+kml time cost 2.262900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1683902,1683902,2079052,1683902]
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/barrier2-1/barrier2-1.mtx,113076,113076,3805068
+cpu_CSR time cost 10.322800 ms
+neon_CSR time cost 10.053300 ms
+CSR error:0
+neon_ell time cost 9.644200 ms
+ell error:0
+neon_ACSR time cost 10.290300 ms
+ACSR error:0
+sy_mtx time cost 9.485200 ms
+symtx error:0
+kml time cost 7.613800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3805068,3818620,5766490,4855466]
+mtx:/home/data/suitesparse_collection/barrier2-10/barrier2-10.mtx,115625,115625,3897557
+cpu_CSR time cost 10.679400 ms
+neon_CSR time cost 12.846900 ms
+CSR error:0
+neon_ell time cost 9.688500 ms
+error! tid=115206 16.000000,0.000000
+ell error:1
+neon_ACSR time cost 10.690700 ms
+ACSR error:0
+sy_mtx time cost 10.259200 ms
+error! tid=115624 27.000000,0.000000
+symtx error:1
+kml time cost 9.516300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3897557,3912378,5899034,4973336]
+mtx:/home/data/suitesparse_collection/barrier2-11/barrier2-11.mtx,115625,115625,3897557
+cpu_CSR time cost 10.859800 ms
+neon_CSR time cost 10.435100 ms
+CSR error:0
+neon_ell time cost 10.227800 ms
+error! tid=115206 16.000000,0.000000
+ell error:1
+neon_ACSR time cost 14.353600 ms
+ACSR error:0
+sy_mtx time cost 10.922100 ms
+error! tid=115624 27.000000,0.000000
+symtx error:1
+kml time cost 7.693400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3897557,3912378,5899034,4973336]
+mtx:/home/data/suitesparse_collection/barrier2-12/barrier2-12.mtx,115625,115625,3897557
+cpu_CSR time cost 10.703700 ms
+neon_CSR time cost 10.316000 ms
+CSR error:0
+neon_ell time cost 10.273600 ms
+error! tid=115206 16.000000,0.000000
+ell error:1
+neon_ACSR time cost 11.189000 ms
+ACSR error:0
+sy_mtx time cost 12.452100 ms
+error! tid=115624 27.000000,0.000000
+symtx error:1
+kml time cost 7.937300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3897557,3912378,5899034,4973336]
+mtx:/home/data/suitesparse_collection/barrier2-2/barrier2-2.mtx,113076,113076,3805068
+cpu_CSR time cost 14.689700 ms
+neon_CSR time cost 14.988600 ms
+CSR error:0
+neon_ell time cost 10.946800 ms
+ell error:0
+neon_ACSR time cost 10.326600 ms
+ACSR error:0
+sy_mtx time cost 10.065300 ms
+symtx error:0
+kml time cost 7.547800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3805068,3818620,5766490,4855466]
+mtx:/home/data/suitesparse_collection/barrier2-3/barrier2-3.mtx,113076,113076,3805068
+cpu_CSR time cost 10.965800 ms
+neon_CSR time cost 10.661500 ms
+CSR error:0
+neon_ell time cost 10.333200 ms
+ell error:0
+neon_ACSR time cost 11.163300 ms
+ACSR error:0
+sy_mtx time cost 11.181000 ms
+symtx error:0
+kml time cost 7.693800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3805068,3818620,5766490,4855466]
+mtx:/home/data/suitesparse_collection/barrier2-4/barrier2-4.mtx,113076,113076,3805068
+cpu_CSR time cost 13.527400 ms
+neon_CSR time cost 13.563000 ms
+CSR error:0
+neon_ell time cost 9.915300 ms
+ell error:0
+neon_ACSR time cost 12.317400 ms
+ACSR error:0
+sy_mtx time cost 11.413000 ms
+symtx error:0
+kml time cost 8.508500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3805068,3818620,5766490,4855466]
+mtx:/home/data/suitesparse_collection/barrier2-9/barrier2-9.mtx,115625,115625,3897557
+cpu_CSR time cost 11.592500 ms
+neon_CSR time cost 14.598800 ms
+CSR error:0
+neon_ell time cost 10.332400 ms
+error! tid=115206 16.000000,0.000000
+ell error:1
+neon_ACSR time cost 14.738000 ms
+ACSR error:0
+sy_mtx time cost 11.617900 ms
+error! tid=115624 27.000000,0.000000
+symtx error:1
+kml time cost 7.714600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[3897557,3912378,5899034,4973336]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/Baumann/Baumann.mtx,112211,112211,760631
+cpu_CSR time cost 1.590900 ms
+neon_CSR time cost 1.674200 ms
+CSR error:0
+neon_ell time cost 1.657700 ms
+error! tid=112210 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 2.041600 ms
+ACSR error:0
+sy_mtx time cost 1.833900 ms
+error! tid=112210 4.000000,0.000000
+symtx error:1
+kml time cost 1.417800 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[760631,760680,1296840,771030]
+mtx:/home/data/suitesparse_collection/bauru5727/bauru5727.mtx,40366,40366,145019
+cpu_CSR time cost 0.473300 ms
+neon_CSR time cost 0.460400 ms
+CSR error:0
+neon_ell time cost 0.317000 ms
+ell error:0
+neon_ACSR time cost 0.472700 ms
+ACSR error:0
+sy_mtx time cost 0.457000 ms
+symtx error:0
+kml time cost 0.436900 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[145019,145180,190308,169952]
+mtx:/home/data/suitesparse_collection/baxter/baxter.mtx,27441,30733,111576
+cpu_CSR time cost 0.288700 ms
+neon_CSR time cost 0.284500 ms
+CSR error:0
+neon_ell time cost 0.233000 ms
+error! tid=27288 3.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.360100 ms
+ACSR error:0
+sy_mtx time cost 0.300600 ms
+error! tid=27440 3.000000,0.000000
+symtx error:3292
+kml time cost 0.271700 ms
+error! tid=0 42.000000,40.000000
+kml error:3292
+partition:CSR-ELL-ACSR-SY[111576,113728,209722,141644]
+mtx:/home/data/suitesparse_collection/bayer01/bayer01.mtx,57735,57735,277774
+cpu_CSR time cost 0.749000 ms
+neon_CSR time cost 0.751700 ms
+CSR error:0
+neon_ell time cost 0.573200 ms
+error! tid=57714 1.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.917900 ms
+ACSR error:0
+sy_mtx time cost 0.890000 ms
+error! tid=57734 2.000000,0.000000
+symtx error:1
+kml time cost 0.677200 ms
+error! tid=0 1.000000,0.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[277774,278494,453356,400480]
+mtx:/home/data/suitesparse_collection/bayer02/bayer02.mtx,13935,13935,63679
+cpu_CSR time cost 0.162300 ms
+neon_CSR time cost 0.150000 ms
+CSR error:0
+neon_ell time cost 0.115400 ms
+error! tid=13879 2.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.195100 ms
+ACSR error:0
+sy_mtx time cost 0.189300 ms
+error! tid=13934 12.000000,0.000000
+symtx error:1
+kml time cost 0.143300 ms
+error! tid=0 3.000000,2.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[63679,63748,106572,93532]
+mtx:/home/data/suitesparse_collection/bayer03/bayer03.mtx,6747,6747,56196
+cpu_CSR time cost 0.110200 ms
+neon_CSR time cost 0.104500 ms
+CSR error:0
+neon_ell time cost 0.088100 ms
+error! tid=6726 2.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.111200 ms
+ACSR error:0
+sy_mtx time cost 0.102100 ms
+error! tid=6746 18.000000,0.000000
+symtx error:1
+kml time cost 0.110400 ms
+error! tid=0 2.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[56196,56290,78916,69436]
+mtx:/home/data/suitesparse_collection/bayer04/bayer04.mtx,20545,20545,159082
+cpu_CSR time cost 0.346000 ms
+neon_CSR time cost 0.334200 ms
+CSR error:0
+neon_ell time cost 0.281600 ms
+error! tid=20511 1.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.362900 ms
+ACSR error:0
+sy_mtx time cost 0.337400 ms
+error! tid=20544 3.000000,0.000000
+symtx error:1
+kml time cost 0.362700 ms
+error! tid=0 2.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[159082,159482,226454,199026]
+mtx:/home/data/suitesparse_collection/bayer05/bayer05.mtx,3268,3268,27836
+cpu_CSR time cost 0.054500 ms
+neon_CSR time cost 0.047100 ms
+CSR error:0
+neon_ell time cost 0.039600 ms
+ell error:0
+neon_ACSR time cost 0.049000 ms
+ACSR error:0
+sy_mtx time cost 0.046200 ms
+symtx error:0
+kml time cost 0.052300 ms
+error! tid=0 1.000000,0.000000
+kml error:38
+partition:CSR-ELL-ACSR-SY[27836,27962,37206,33662]
+mtx:/home/data/suitesparse_collection/bayer06/bayer06.mtx,3008,3008,27576
+cpu_CSR time cost 0.052900 ms
+neon_CSR time cost 0.046100 ms
+CSR error:0
+neon_ell time cost 0.039300 ms
+ell error:0
+neon_ACSR time cost 0.048000 ms
+ACSR error:0
+sy_mtx time cost 0.045400 ms
+symtx error:0
+kml time cost 0.050300 ms
+error! tid=0 1.000000,0.000000
+kml error:38
+partition:CSR-ELL-ACSR-SY[27576,27702,36686,33402]
+mtx:/home/data/suitesparse_collection/bayer07/bayer07.mtx,3268,3268,27836
+cpu_CSR time cost 0.053700 ms
+neon_CSR time cost 0.047200 ms
+CSR error:0
+neon_ell time cost 0.040300 ms
+ell error:0
+neon_ACSR time cost 0.049800 ms
+ACSR error:0
+sy_mtx time cost 0.045900 ms
+symtx error:0
+kml time cost 0.051500 ms
+error! tid=0 1.000000,0.000000
+kml error:38
+partition:CSR-ELL-ACSR-SY[27836,27962,37206,33662]
+mtx:/home/data/suitesparse_collection/bayer08/bayer08.mtx,3008,3008,27576
+cpu_CSR time cost 0.053000 ms
+neon_CSR time cost 0.046400 ms
+CSR error:0
+neon_ell time cost 0.039100 ms
+ell error:0
+neon_ACSR time cost 0.048000 ms
+ACSR error:0
+sy_mtx time cost 0.046000 ms
+symtx error:0
+kml time cost 0.050700 ms
+error! tid=0 1.000000,0.000000
+kml error:38
+partition:CSR-ELL-ACSR-SY[27576,27702,36686,33402]
+mtx:/home/data/suitesparse_collection/bayer09/bayer09.mtx,3083,3083,21216
+cpu_CSR time cost 0.043300 ms
+neon_CSR time cost 0.041400 ms
+CSR error:0
+neon_ell time cost 0.030600 ms
+error! tid=3077 17.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.043100 ms
+ACSR error:0
+sy_mtx time cost 0.040700 ms
+error! tid=3082 18.000000,0.000000
+symtx error:1
+kml time cost 0.042700 ms
+error! tid=0 2.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[21216,21270,30120,27114]
+mtx:/home/data/suitesparse_collection/bayer10/bayer10.mtx,13436,13436,94926
+cpu_CSR time cost 0.211500 ms
+neon_CSR time cost 0.195500 ms
+CSR error:0
+neon_ell time cost 0.158600 ms
+ell error:0
+neon_ACSR time cost 0.211800 ms
+ACSR error:0
+sy_mtx time cost 0.202000 ms
+symtx error:0
+kml time cost 0.202700 ms
+error! tid=0 3.000000,2.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[94926,95252,135206,122570]
+mtx:/home/data/suitesparse_collection/bbmat/bbmat.mtx,38744,38744,1771722
+cpu_CSR time cost 4.255700 ms
+neon_CSR time cost 3.736000 ms
+CSR error:0
+neon_ell time cost 3.069400 ms
+ell error:0
+neon_ACSR time cost 2.824800 ms
+ACSR error:0
+sy_mtx time cost 2.527100 ms
+symtx error:0
+kml time cost 2.143100 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1771722,1774574,2199696,1916142]
+mtx:/home/data/suitesparse_collection/bcircuit/bcircuit.mtx,68902,68902,375558
+cpu_CSR time cost 0.964900 ms
+neon_CSR time cost 1.261600 ms
+CSR error:0
+neon_ell time cost 0.848700 ms
+ell error:0
+neon_ACSR time cost 1.150300 ms
+ACSR error:0
+sy_mtx time cost 1.473800 ms
+symtx error:0
+kml time cost 1.079700 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[375558,376374,564296,495186]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstk15/bcsstk15.mtx,3948,3948,117816
+cpu_CSR time cost 0.209700 ms
+neon_CSR time cost 0.177600 ms
+CSR error:0
+neon_ell time cost 0.166800 ms
+ell error:0
+neon_ACSR time cost 0.178400 ms
+ACSR error:0
+sy_mtx time cost 0.156800 ms
+symtx error:0
+kml time cost 0.149500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[117816,117962,155104,131950]
+mtx:/home/data/suitesparse_collection/bcsstk16/bcsstk16.mtx,4884,4884,290378
+cpu_CSR time cost 0.554200 ms
+neon_CSR time cost 0.428500 ms
+CSR error:0
+neon_ell time cost 0.431000 ms
+ell error:0
+neon_ACSR time cost 0.354400 ms
+ACSR error:0
+sy_mtx time cost 0.345300 ms
+symtx error:0
+kml time cost 0.326800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[290378,290724,313394,293376]
+mtx:/home/data/suitesparse_collection/bcsstk17/bcsstk17.mtx,10974,10974,428650
+cpu_CSR time cost 0.826800 ms
+neon_CSR time cost 0.669000 ms
+CSR error:0
+neon_ell time cost 0.651300 ms
+ell error:0
+neon_ACSR time cost 0.553400 ms
+ACSR error:0
+sy_mtx time cost 0.502300 ms
+symtx error:0
+kml time cost 0.522700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[428650,429234,474516,430890]
+mtx:/home/data/suitesparse_collection/bcsstk18/bcsstk18.mtx,11948,11948,149090
+cpu_CSR time cost 0.287300 ms
+neon_CSR time cost 0.292500 ms
+CSR error:0
+neon_ell time cost 0.238500 ms
+ell error:0
+neon_ACSR time cost 0.346600 ms
+ACSR error:0
+sy_mtx time cost 0.336500 ms
+symtx error:0
+kml time cost 0.299000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[149090,149492,255686,199922]
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstk21/bcsstk21.mtx,3600,3600,26600
+cpu_CSR time cost 0.042800 ms
+neon_CSR time cost 0.048000 ms
+CSR error:0
+neon_ell time cost 0.038200 ms
+ell error:0
+neon_ACSR time cost 0.057000 ms
+ACSR error:0
+sy_mtx time cost 0.063200 ms
+symtx error:0
+kml time cost 0.040900 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[26600,26610,48560,33480]
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstk23/bcsstk23.mtx,3134,3134,45178
+cpu_CSR time cost 0.079100 ms
+neon_CSR time cost 0.074800 ms
+CSR error:0
+neon_ell time cost 0.063500 ms
+ell error:0
+neon_ACSR time cost 0.094000 ms
+ACSR error:0
+sy_mtx time cost 0.069800 ms
+symtx error:0
+kml time cost 0.074700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[45178,45240,76582,50614]
+mtx:/home/data/suitesparse_collection/bcsstk24/bcsstk24.mtx,3562,3562,159910
+cpu_CSR time cost 0.296500 ms
+neon_CSR time cost 0.224500 ms
+CSR error:0
+neon_ell time cost 0.228400 ms
+ell error:0
+neon_ACSR time cost 0.174700 ms
+ACSR error:0
+sy_mtx time cost 0.176900 ms
+symtx error:0
+kml time cost 0.186500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[159910,159926,161020,160190]
+mtx:/home/data/suitesparse_collection/bcsstk25/bcsstk25.mtx,15439,15439,252241
+cpu_CSR time cost 0.475100 ms
+neon_CSR time cost 0.456900 ms
+CSR error:0
+neon_ell time cost 0.407000 ms
+error! tid=15362 6.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.512600 ms
+ACSR error:0
+sy_mtx time cost 0.482900 ms
+error! tid=15438 15.000000,0.000000
+symtx error:1
+kml time cost 0.408500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[252241,252710,385364,309822]
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstk28/bcsstk28.mtx,4410,4410,219024
+cpu_CSR time cost 0.420000 ms
+neon_CSR time cost 0.376300 ms
+CSR error:0
+neon_ell time cost 0.390800 ms
+ell error:0
+neon_ACSR time cost 0.245900 ms
+ACSR error:0
+sy_mtx time cost 0.253400 ms
+symtx error:0
+kml time cost 0.249400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[219024,219206,220062,219098]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstk35/bcsstk35.mtx,30237,30237,1450163
+cpu_CSR time cost 2.942200 ms
+neon_CSR time cost 2.282100 ms
+CSR error:0
+neon_ell time cost 2.399400 ms
+error! tid=30231 24.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.768900 ms
+ACSR error:0
+sy_mtx time cost 1.731400 ms
+error! tid=30236 24.000000,0.000000
+symtx error:1
+kml time cost 1.714300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1450163,1450926,1473026,1455088]
+mtx:/home/data/suitesparse_collection/bcsstk36/bcsstk36.mtx,23052,23052,1143140
+cpu_CSR time cost 2.327200 ms
+neon_CSR time cost 1.819300 ms
+CSR error:0
+neon_ell time cost 1.889000 ms
+ell error:0
+neon_ACSR time cost 1.499200 ms
+ACSR error:0
+sy_mtx time cost 1.370200 ms
+symtx error:0
+kml time cost 1.379700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1143140,1144608,1167384,1147080]
+mtx:/home/data/suitesparse_collection/bcsstk37/bcsstk37.mtx,25503,25503,1140977
+cpu_CSR time cost 2.348800 ms
+neon_CSR time cost 1.850400 ms
+CSR error:0
+neon_ell time cost 1.927600 ms
+error! tid=25436 20.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.606900 ms
+ACSR error:0
+sy_mtx time cost 1.449100 ms
+error! tid=25502 21.000000,0.000000
+symtx error:1
+kml time cost 1.465300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1140977,1142016,1189750,1157524]
+mtx:/home/data/suitesparse_collection/bcsstk38/bcsstk38.mtx,8032,8032,355460
+cpu_CSR time cost 0.679200 ms
+neon_CSR time cost 0.551500 ms
+CSR error:0
+neon_ell time cost 0.545200 ms
+ell error:0
+neon_ACSR time cost 0.448300 ms
+ACSR error:0
+sy_mtx time cost 0.470700 ms
+symtx error:0
+kml time cost 0.450700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[355460,355964,379570,364118]
+mtx:/home/data/suitesparse_collection/bcsstk39/bcsstk39.mtx,46772,46772,2089294
+cpu_CSR time cost 4.211800 ms
+neon_CSR time cost 3.199500 ms
+CSR error:0
+neon_ell time cost 3.514500 ms
+ell error:0
+neon_ACSR time cost 3.130600 ms
+ACSR error:0
+sy_mtx time cost 2.622300 ms
+symtx error:0
+kml time cost 2.468400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[2089294,2089868,2447524,2097628]
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstm21/bcsstm21.mtx,3600,3600,3600
+cpu_CSR time cost 0.010300 ms
+neon_CSR time cost 0.010300 ms
+CSR error:0
+neon_ell time cost 0.010200 ms
+ell error:0
+neon_ACSR time cost 0.015100 ms
+ACSR error:0
+sy_mtx time cost 0.011000 ms
+symtx error:0
+kml time cost 0.013800 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[3600,3600,7200,3600]
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstm23/bcsstm23.mtx,3134,3134,3134
+cpu_CSR time cost 0.008900 ms
+neon_CSR time cost 0.008900 ms
+CSR error:0
+neon_ell time cost 0.008900 ms
+ell error:0
+neon_ACSR time cost 0.013200 ms
+ACSR error:0
+sy_mtx time cost 0.009700 ms
+symtx error:0
+kml time cost 0.012700 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[3134,3134,6268,3134]
+mtx:/home/data/suitesparse_collection/bcsstm24/bcsstm24.mtx,3562,3562,3562
+cpu_CSR time cost 0.010300 ms
+neon_CSR time cost 0.010400 ms
+CSR error:0
+neon_ell time cost 0.009900 ms
+ell error:0
+neon_ACSR time cost 0.016500 ms
+ACSR error:0
+sy_mtx time cost 0.010800 ms
+symtx error:0
+kml time cost 0.013600 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[3562,3562,7124,3562]
+mtx:/home/data/suitesparse_collection/bcsstm25/bcsstm25.mtx,15439,15439,15439
+cpu_CSR time cost 0.047800 ms
+neon_CSR time cost 0.045800 ms
+CSR error:0
+neon_ell time cost 0.047300 ms
+error! tid=15399 1.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.068200 ms
+ACSR error:0
+sy_mtx time cost 0.049500 ms
+error! tid=15438 1.000000,0.000000
+symtx error:1
+kml time cost 0.045000 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[15439,15438,30878,15438]
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bcsstm35/bcsstm35.mtx,30237,30237,20619
+cpu_CSR time cost 0.081200 ms
+neon_CSR time cost 0.091500 ms
+CSR error:0
+neon_ell time cost 0.079300 ms
+ell error:0
+neon_ACSR time cost 0.094400 ms
+ACSR error:0
+sy_mtx time cost 0.099400 ms
+symtx error:0
+kml time cost 0.078200 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[20619,20648,35648,25638]
+mtx:/home/data/suitesparse_collection/bcsstm36/bcsstm36.mtx,23052,23052,320606
+cpu_CSR time cost 0.631000 ms
+neon_CSR time cost 0.565900 ms
+CSR error:0
+neon_ell time cost 0.529300 ms
+ell error:0
+neon_ACSR time cost 0.574400 ms
+ACSR error:0
+sy_mtx time cost 0.514400 ms
+symtx error:0
+kml time cost 0.505500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[320606,321758,422744,354510]
+mtx:/home/data/suitesparse_collection/bcsstm37/bcsstm37.mtx,25503,25503,15525
+cpu_CSR time cost 0.072100 ms
+neon_CSR time cost 0.081900 ms
+CSR error:0
+neon_ell time cost 0.067400 ms
+ell error:0
+neon_ACSR time cost 0.086500 ms
+ACSR error:0
+sy_mtx time cost 0.094400 ms
+symtx error:0
+kml time cost 0.076000 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[15525,15572,29698,20362]
+mtx:/home/data/suitesparse_collection/bcsstm38/bcsstm38.mtx,8032,8032,10485
+cpu_CSR time cost 0.032800 ms
+neon_CSR time cost 0.040300 ms
+CSR error:0
+neon_ell time cost 0.025800 ms
+ell error:0
+neon_ACSR time cost 0.036300 ms
+ACSR error:0
+sy_mtx time cost 0.042100 ms
+symtx error:0
+kml time cost 0.042000 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[10485,10536,16764,12880]
+mtx:/home/data/suitesparse_collection/bcsstm39/bcsstm39.mtx,46772,46772,46772
+cpu_CSR time cost 0.154800 ms
+neon_CSR time cost 0.160700 ms
+CSR error:0
+neon_ell time cost 0.179600 ms
+ell error:0
+neon_ACSR time cost 0.216300 ms
+ACSR error:0
+sy_mtx time cost 0.160000 ms
+symtx error:0
+kml time cost 0.141700 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[46772,46772,93544,46772]
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/BenElechi1/BenElechi1.mtx,245874,245874,13150496
+cpu_CSR time cost 32.075200 ms
+neon_CSR time cost 26.645200 ms
+CSR error:0
+neon_ell time cost 27.387400 ms
+ell error:0
+neon_ACSR time cost 18.290900 ms
+ACSR error:0
+sy_mtx time cost 18.406900 ms
+symtx error:0
+kml time cost 16.275500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[13150496,13150598,13150710,13150498]
+mtx:/home/data/suitesparse_collection/benzene/benzene.mtx,8219,8219,242669
+cpu_CSR time cost 0.437800 ms
+neon_CSR time cost 0.384600 ms
+CSR error:0
+neon_ell time cost 0.366400 ms
+error! tid=8203 12.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.479400 ms
+ACSR error:0
+sy_mtx time cost 0.425500 ms
+error! tid=8218 12.000000,0.000000
+symtx error:1
+kml time cost 0.332500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[242669,242822,398220,325174]
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/bips07_1693/bips07_1693.mtx,13275,13275,49044
+cpu_CSR time cost 0.149800 ms
+neon_CSR time cost 0.139400 ms
+CSR error:0
+neon_ell time cost 0.090700 ms
+error! tid=13064 6.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.147200 ms
+ACSR error:0
+sy_mtx time cost 0.133100 ms
+error! tid=13274 15.000000,0.000000
+symtx error:1
+kml time cost 0.130300 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[49044,49084,64190,59614]
+mtx:/home/data/suitesparse_collection/bips07_1998/bips07_1998.mtx,15066,15066,62198
+cpu_CSR time cost 0.169600 ms
+neon_CSR time cost 0.175800 ms
+CSR error:0
+neon_ell time cost 0.115800 ms
+ell error:0
+neon_ACSR time cost 0.173200 ms
+ACSR error:0
+sy_mtx time cost 0.154200 ms
+symtx error:0
+kml time cost 0.153700 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[62198,62240,80862,67696]
+mtx:/home/data/suitesparse_collection/bips07_2476/bips07_2476.mtx,16861,16861,66498
+cpu_CSR time cost 0.190700 ms
+neon_CSR time cost 0.191900 ms
+CSR error:0
+neon_ell time cost 0.126800 ms
+error! tid=16420 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.194000 ms
+ACSR error:0
+sy_mtx time cost 0.185200 ms
+error! tid=16860 11.000000,0.000000
+symtx error:1
+kml time cost 0.172800 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[66498,66562,86440,79732]
+mtx:/home/data/suitesparse_collection/bips07_3078/bips07_3078.mtx,21128,21128,75729
+cpu_CSR time cost 0.240500 ms
+neon_CSR time cost 0.228500 ms
+CSR error:0
+neon_ell time cost 0.149600 ms
+ell error:0
+neon_ACSR time cost 0.231700 ms
+ACSR error:0
+sy_mtx time cost 0.211200 ms
+symtx error:0
+kml time cost 0.212200 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[75729,75806,99626,85338]
+mtx:/home/data/suitesparse_collection/bips98_1142/bips98_1142.mtx,9735,9735,40983
+cpu_CSR time cost 0.108900 ms
+neon_CSR time cost 0.114300 ms
+CSR error:0
+neon_ell time cost 0.073400 ms
+error! tid=9731 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.112900 ms
+ACSR error:0
+sy_mtx time cost 0.102200 ms
+error! tid=9734 15.000000,0.000000
+symtx error:1
+kml time cost 0.100300 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[40983,41040,52146,48502]
+mtx:/home/data/suitesparse_collection/bips98_1450/bips98_1450.mtx,11305,11305,44678
+cpu_CSR time cost 0.126700 ms
+neon_CSR time cost 0.124700 ms
+CSR error:0
+neon_ell time cost 0.082200 ms
+error! tid=11294 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.129500 ms
+ACSR error:0
+sy_mtx time cost 0.119000 ms
+error! tid=11304 15.000000,0.000000
+symtx error:1
+kml time cost 0.112500 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[44678,44712,57654,53488]
+mtx:/home/data/suitesparse_collection/bips98_606/bips98_606.mtx,7135,7135,34738
+cpu_CSR time cost 0.078000 ms
+neon_CSR time cost 0.087400 ms
+CSR error:0
+neon_ell time cost 0.058200 ms
+error! tid=6751 6.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.086400 ms
+ACSR error:0
+sy_mtx time cost 0.078300 ms
+error! tid=7134 15.000000,0.000000
+symtx error:1
+kml time cost 0.074000 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[34738,34772,43736,40672]
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/blockqp1/blockqp1.mtx,60012,60012,640033
+cpu_CSR time cost 1.390000 ms
+neon_CSR time cost 1.591700 ms
+CSR error:0
+neon_ell time cost 1.324000 ms
+ell error:0
+neon_ACSR time cost 1.126200 ms
+ACSR error:0
+sy_mtx time cost 1.043900 ms
+symtx error:0
+kml time cost 1.206500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[640033,680042,720050,640034]
+mtx:/home/data/suitesparse_collection/bloweya/bloweya.mtx,30004,30004,150009
+cpu_CSR time cost 0.351000 ms
+neon_CSR time cost 0.404200 ms
+CSR error:0
+neon_ell time cost 0.316800 ms
+ell error:0
+neon_ACSR time cost 0.429500 ms
+ACSR error:0
+sy_mtx time cost 0.492100 ms
+symtx error:0
+kml time cost 0.290800 ms
+error! tid=0 6.000000,4.000000
+kml error:6
+partition:CSR-ELL-ACSR-SY[150009,160008,240010,240008]
+mtx:/home/data/suitesparse_collection/bloweybl/bloweybl.mtx,30003,30003,120000
+cpu_CSR time cost 0.354200 ms
+neon_CSR time cost 0.490700 ms
+CSR error:0
+neon_ell time cost 0.262500 ms
+error! tid=30002 3.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.414000 ms
+ACSR error:0
+sy_mtx time cost 0.257600 ms
+error! tid=30002 3.000000,0.000000
+symtx error:1
+kml time cost 0.288000 ms
+error! tid=0 2.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[120000,129998,189994,120010]
+mtx:/home/data/suitesparse_collection/bloweybq/bloweybq.mtx,10001,10001,69991
+cpu_CSR time cost 0.125600 ms
+neon_CSR time cost 0.118700 ms
+CSR error:0
+neon_ell time cost 0.127100 ms
+error! tid=10000 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.121800 ms
+ACSR error:0
+sy_mtx time cost 0.176800 ms
+error! tid=10000 4.000000,0.000000
+symtx error:1
+kml time cost 0.115300 ms
+error! tid=0 10001.000000,9999.000000
+kml error:10001
+partition:CSR-ELL-ACSR-SY[69991,79984,89984,69990]
+mtx:/home/data/suitesparse_collection/bmw3_2/bmw3_2.mtx,227362,227362,11288630
+cpu_CSR time cost 29.785300 ms
+neon_CSR time cost 26.071600 ms
+CSR error:0
+neon_ell time cost 25.793300 ms
+ell error:0
+neon_ACSR time cost 20.148200 ms
+ACSR error:0
+sy_mtx time cost 16.397100 ms
+symtx error:0
+kml time cost 15.312100 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[11288630,11296974,11514522,11366062]
+mtx:/home/data/suitesparse_collection/bmw7st_1/bmw7st_1.mtx,141347,141347,7339667
+cpu_CSR time cost 18.913900 ms
+neon_CSR time cost 16.494300 ms
+CSR error:0
+neon_ell time cost 20.527200 ms
+error! tid=141335 30.000000,0.000000
+ell error:1
+neon_ACSR time cost 11.973000 ms
+ACSR error:0
+sy_mtx time cost 10.773500 ms
+error! tid=141346 80.000000,0.000000
+symtx error:1
+kml time cost 9.854200 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[7339667,7344990,7429994,7368286]
+mtx:/home/data/suitesparse_collection/bmwcra_1/bmwcra_1.mtx,148770,148770,10644002
+cpu_CSR time cost 28.091500 ms
+neon_CSR time cost 23.713100 ms
+CSR error:0
+neon_ell time cost 23.758600 ms
+ell error:0
+neon_ACSR time cost 20.143100 ms
+ACSR error:0
+sy_mtx time cost 17.295800 ms
+symtx error:0
+kml time cost 13.055800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[10644002,10657458,11776396,10850324]
+mtx:/home/data/suitesparse_collection/bodyy4/bodyy4.mtx,17546,17546,121938
+cpu_CSR time cost 0.226300 ms
+neon_CSR time cost 0.250800 ms
+CSR error:0
+neon_ell time cost 0.207200 ms
+ell error:0
+neon_ACSR time cost 0.222700 ms
+ACSR error:0
+sy_mtx time cost 0.227900 ms
+symtx error:0
+kml time cost 0.221100 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[121938,121986,143478,125890]
+mtx:/home/data/suitesparse_collection/bodyy5/bodyy5.mtx,18589,18589,129281
+cpu_CSR time cost 0.239400 ms
+neon_CSR time cost 0.264100 ms
+CSR error:0
+neon_ell time cost 0.227100 ms
+error! tid=18508 6.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.235500 ms
+ACSR error:0
+sy_mtx time cost 0.240400 ms
+error! tid=18588 6.000000,0.000000
+symtx error:1
+kml time cost 0.233800 ms
+error! tid=0 6.000000,4.000000
+kml error:6
+partition:CSR-ELL-ACSR-SY[129281,129314,151346,132692]
+mtx:/home/data/suitesparse_collection/bodyy6/bodyy6.mtx,19366,19366,134748
+cpu_CSR time cost 0.252200 ms
+neon_CSR time cost 0.277700 ms
+CSR error:0
+neon_ell time cost 0.231100 ms
+ell error:0
+neon_ACSR time cost 0.256100 ms
+ACSR error:0
+sy_mtx time cost 0.244700 ms
+symtx error:0
+kml time cost 0.243300 ms
+error! tid=0 5.000000,3.000000
+kml error:5
+partition:CSR-ELL-ACSR-SY[134748,134784,157276,137948]
+mtx:/home/data/suitesparse_collection/bone010/bone010.mtx,986703,986703,71666325
+cpu_CSR time cost 189.015100 ms
+neon_CSR time cost 158.306100 ms
+CSR error:0
+neon_ell time cost 160.372100 ms
+error! tid=986702 42.000000,0.000000
+ell error:1
+neon_ACSR time cost 138.752400 ms
+ACSR error:0
+sy_mtx time cost 130.446300 ms
+error! tid=986702 42.000000,0.000000
+symtx error:1
+kml time cost 87.734600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[71666325,71720460,79058076,71806742]
+mtx:/home/data/suitesparse_collection/boneS01/boneS01.mtx,127224,127224,6715152
+cpu_CSR time cost 16.404400 ms
+neon_CSR time cost 22.588100 ms
+CSR error:0
+neon_ell time cost 18.551600 ms
+ell error:0
+neon_ACSR time cost 11.662600 ms
+ACSR error:0
+sy_mtx time cost 9.935000 ms
+symtx error:0
+kml time cost 13.741600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[6715152,6721968,7217280,6766042]
+mtx:/home/data/suitesparse_collection/boneS10/boneS10.mtx,914898,914898,55468422
+cpu_CSR time cost 171.488200 ms
+neon_CSR time cost 124.755500 ms
+CSR error:0
+neon_ell time cost 125.823500 ms
+ell error:0
+neon_ACSR time cost 113.304900 ms
+ACSR error:0
+sy_mtx time cost 81.491500 ms
+symtx error:0
+kml time cost 70.966900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[55468422,55518012,60184824,55800956]
+mtx:/home/data/suitesparse_collection/boyd1/boyd1.mtx,93279,93279,1211231
+cpu_CSR time cost 2.866300 ms
+neon_CSR time cost 2.595300 ms
+CSR error:0
+neon_ell time cost 2.476200 ms
+error! tid=93196 6.000000,0.000000
+ell error:1
+neon_ACSR time cost 2.466300 ms
+ACSR error:0
+sy_mtx time cost 3.166900 ms
+error! tid=93278 4101.000000,0.000000
+symtx error:1
+kml time cost 3.338700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[1211231,1271190,1492872,1298992]
+mtx:/home/data/suitesparse_collection/boyd2/boyd2.mtx,466316,466316,1500397
+cpu_CSR time cost 7.910800 ms
+neon_CSR time cost 8.462200 ms
+CSR error:0
+neon_ell time cost 6.316700 ms
+ell error:0
+neon_ACSR time cost 10.563200 ms
+ACSR error:0
+sy_mtx time cost 5.783900 ms
+symtx error:0
+kml time cost 4.857100 ms
+error! tid=0 4.000000,2.000000
+kml error:4
+partition:CSR-ELL-ACSR-SY[1500397,1511388,2723788,1500404]
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/brainpc2/brainpc2.mtx,27607,27607,179395
+cpu_CSR time cost 0.391400 ms
+neon_CSR time cost 0.591000 ms
+CSR error:0
+neon_ell time cost 0.361300 ms
+error! tid=27371 5.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.380000 ms
+ACSR error:0
+sy_mtx time cost 0.426400 ms
+error! tid=27606 5.000000,0.000000
+symtx error:1
+kml time cost 0.376000 ms
+error! tid=0 3.000000,1.000000
+kml error:3
+partition:CSR-ELL-ACSR-SY[179395,179398,220812,179402]
+mtx:/home/data/suitesparse_collection/bratu3d/bratu3d.mtx,27792,27792,173796
+cpu_CSR time cost 0.348900 ms
+neon_CSR time cost 0.369700 ms
+CSR error:0
+neon_ell time cost 0.322300 ms
+ell error:0
+neon_ACSR time cost 0.459300 ms
+ACSR error:0
+sy_mtx time cost 0.342500 ms
+symtx error:0
+kml time cost 0.335300 ms
+error! tid=0 1.000000,0.000000
+kml error:2
+partition:CSR-ELL-ACSR-SY[173796,173834,298924,180674]
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/Bump_2911/Bump_2911.mtx,2911419,2911419,127729899
+cpu_CSR time cost 339.741300 ms
+neon_CSR time cost 288.808800 ms
+CSR error:0
+neon_ell time cost 300.072800 ms
+error! tid=2911325 1.000000,0.000000
+ell error:1
+neon_ACSR time cost 255.728100 ms
+ACSR error:0
+sy_mtx time cost 190.904100 ms
+error! tid=2911418 1.000000,0.000000
+symtx error:1
+kml time cost 178.074000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[127729899,127788062,137820556,129919996]
+mtx:/home/data/suitesparse_collection/bundle1/bundle1.mtx,10581,10581,770901
+cpu_CSR time cost 1.534800 ms
+neon_CSR time cost 1.174100 ms
+CSR error:0
+neon_ell time cost 1.244300 ms
+error! tid=10410 24.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.996100 ms
+ACSR error:0
+sy_mtx time cost 0.921100 ms
+error! tid=10580 185.000000,0.000000
+symtx error:1
+kml time cost 0.877300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[770901,773604,809670,773684]
+mtx:/home/data/suitesparse_collection/bundle_adj/bundle_adj.mtx,513351,513351,20208051
+cpu_CSR time cost 49.460400 ms
+neon_CSR time cost 43.592200 ms
+CSR error:0
+neon_ell time cost 48.533200 ms
+error! tid=513350 9.000000,0.000000
+ell error:1
+neon_ACSR time cost 36.283500 ms
+ACSR error:0
+sy_mtx time cost 30.392600 ms
+error! tid=513350 9.000000,0.000000
+symtx error:1
+kml time cost 27.969200 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[20208051,20235852,21344940,20208044]
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/c-21/c-21.mtx,3509,3509,32157
+cpu_CSR time cost 0.072900 ms
+neon_CSR time cost 0.056300 ms
+CSR error:0
+neon_ell time cost 0.048300 ms
+error! tid=3290 10.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.072200 ms
+ACSR error:0
+sy_mtx time cost 0.052800 ms
+error! tid=3508 10.000000,0.000000
+symtx error:1
+kml time cost 0.064900 ms
+error! tid=0 17.000000,15.000000
+kml error:17
+partition:CSR-ELL-ACSR-SY[32157,32946,44730,35434]
+mtx:/home/data/suitesparse_collection/c-22/c-22.mtx,3792,3792,28872
+cpu_CSR time cost 0.070300 ms
+neon_CSR time cost 0.053300 ms
+CSR error:0
+neon_ell time cost 0.044400 ms
+ell error:0
+neon_ACSR time cost 0.072300 ms
+ACSR error:0
+sy_mtx time cost 0.047500 ms
+symtx error:0
+kml time cost 0.062300 ms
+error! tid=0 10.000000,8.000000
+kml error:10
+partition:CSR-ELL-ACSR-SY[28872,29116,41576,31172]
+mtx:/home/data/suitesparse_collection/c-23/c-23.mtx,3969,3969,31079
+cpu_CSR time cost 0.072900 ms
+neon_CSR time cost 0.056500 ms
+CSR error:0
+neon_ell time cost 0.047500 ms
+error! tid=3776 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.071200 ms
+ACSR error:0
+sy_mtx time cost 0.053000 ms
+error! tid=3968 7.000000,0.000000
+symtx error:1
+kml time cost 0.063300 ms
+error! tid=0 22.000000,20.000000
+kml error:22
+partition:CSR-ELL-ACSR-SY[31079,32066,43716,32980]
+mtx:/home/data/suitesparse_collection/c-24/c-24.mtx,4119,4119,35699
+cpu_CSR time cost 0.083000 ms
+neon_CSR time cost 0.063300 ms
+CSR error:0
+neon_ell time cost 0.054500 ms
+error! tid=4096 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.081300 ms
+ACSR error:0
+sy_mtx time cost 0.055200 ms
+error! tid=4118 13.000000,0.000000
+symtx error:1
+kml time cost 0.071900 ms
+error! tid=0 13.000000,11.000000
+kml error:13
+partition:CSR-ELL-ACSR-SY[35699,36102,48906,38786]
+mtx:/home/data/suitesparse_collection/c-25/c-25.mtx,3797,3797,49635
+cpu_CSR time cost 0.104000 ms
+neon_CSR time cost 0.078500 ms
+CSR error:0
+neon_ell time cost 0.071700 ms
+error! tid=3756 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.088600 ms
+ACSR error:0
+sy_mtx time cost 0.067600 ms
+error! tid=3796 25.000000,0.000000
+symtx error:1
+kml time cost 0.076100 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[49635,50316,64134,53044]
+mtx:/home/data/suitesparse_collection/c-26/c-26.mtx,4307,4307,34537
+cpu_CSR time cost 0.079500 ms
+neon_CSR time cost 0.065000 ms
+CSR error:0
+neon_ell time cost 0.053500 ms
+error! tid=4201 5.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.078000 ms
+ACSR error:0
+sy_mtx time cost 0.056600 ms
+error! tid=4306 8.000000,0.000000
+symtx error:1
+kml time cost 0.070600 ms
+error! tid=0 18.000000,16.000000
+kml error:18
+partition:CSR-ELL-ACSR-SY[34537,35384,48574,37612]
+mtx:/home/data/suitesparse_collection/c-27/c-27.mtx,4563,4563,31375
+cpu_CSR time cost 0.077300 ms
+neon_CSR time cost 0.066300 ms
+CSR error:0
+neon_ell time cost 0.049500 ms
+error! tid=4213 3.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.083200 ms
+ACSR error:0
+sy_mtx time cost 0.056900 ms
+error! tid=4562 12.000000,0.000000
+symtx error:1
+kml time cost 0.069400 ms
+error! tid=0 18.000000,16.000000
+kml error:18
+partition:CSR-ELL-ACSR-SY[31375,32108,46528,34644]
+mtx:/home/data/suitesparse_collection/c-28/c-28.mtx,4598,4598,30590
+cpu_CSR time cost 0.075200 ms
+neon_CSR time cost 0.066000 ms
+CSR error:0
+neon_ell time cost 0.048100 ms
+ell error:0
+neon_ACSR time cost 0.081500 ms
+ACSR error:0
+sy_mtx time cost 0.056300 ms
+symtx error:0
+kml time cost 0.068800 ms
+error! tid=0 20.000000,18.000000
+kml error:20
+partition:CSR-ELL-ACSR-SY[30590,30976,45864,34054]
+mtx:/home/data/suitesparse_collection/c-29/c-29.mtx,5033,5033,43731
+cpu_CSR time cost 0.100600 ms
+neon_CSR time cost 0.080400 ms
+CSR error:0
+neon_ell time cost 0.067500 ms
+error! tid=4997 8.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.098700 ms
+ACSR error:0
+sy_mtx time cost 0.069900 ms
+error! tid=5032 10.000000,0.000000
+symtx error:1
+kml time cost 0.091600 ms
+error! tid=0 32.000000,30.000000
+kml error:32
+partition:CSR-ELL-ACSR-SY[43731,44524,60244,47670]
+mtx:/home/data/suitesparse_collection/c-30/c-30.mtx,5321,5321,65693
+cpu_CSR time cost 0.148000 ms
+neon_CSR time cost 0.107700 ms
+CSR error:0
+neon_ell time cost 0.098800 ms
+error! tid=5254 14.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.126700 ms
+ACSR error:0
+sy_mtx time cost 0.087800 ms
+error! tid=5320 20.000000,0.000000
+symtx error:1
+kml time cost 0.102800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[65693,66744,85134,67206]
+mtx:/home/data/suitesparse_collection/c-31/c-31.mtx,5339,5339,78571
+cpu_CSR time cost 0.169000 ms
+neon_CSR time cost 0.125400 ms
+CSR error:0
+neon_ell time cost 0.117000 ms
+error! tid=5152 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.138000 ms
+ACSR error:0
+sy_mtx time cost 0.104700 ms
+error! tid=5338 20.000000,0.000000
+symtx error:1
+kml time cost 0.113800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[78571,79112,96624,81400]
+mtx:/home/data/suitesparse_collection/c-32/c-32.mtx,5975,5975,54471
+cpu_CSR time cost 0.130600 ms
+neon_CSR time cost 0.098100 ms
+CSR error:0
+neon_ell time cost 0.085200 ms
+error! tid=5803 16.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.115900 ms
+ACSR error:0
+sy_mtx time cost 0.073600 ms
+error! tid=5974 16.000000,0.000000
+symtx error:1
+kml time cost 0.109500 ms
+error! tid=0 1090.000000,1088.000000
+kml error:1090
+partition:CSR-ELL-ACSR-SY[54471,55228,72310,57400]
+mtx:/home/data/suitesparse_collection/c-33/c-33.mtx,6317,6317,56123
+cpu_CSR time cost 0.129400 ms
+neon_CSR time cost 0.102200 ms
+CSR error:0
+neon_ell time cost 0.086600 ms
+error! tid=6230 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.135800 ms
+ACSR error:0
+sy_mtx time cost 0.104000 ms
+error! tid=6316 16.000000,0.000000
+symtx error:1
+kml time cost 0.119400 ms
+error! tid=0 226.000000,224.000000
+kml error:226
+partition:CSR-ELL-ACSR-SY[56123,56252,78166,60468]
+mtx:/home/data/suitesparse_collection/c-34/c-34.mtx,6611,6611,64333
+cpu_CSR time cost 0.141000 ms
+neon_CSR time cost 0.140900 ms
+CSR error:0
+neon_ell time cost 0.099200 ms
+error! tid=6316 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.131300 ms
+ACSR error:0
+sy_mtx time cost 0.093400 ms
+error! tid=6610 16.000000,0.000000
+symtx error:1
+kml time cost 0.147500 ms
+error! tid=0 89.000000,87.000000
+kml error:89
+partition:CSR-ELL-ACSR-SY[64333,65460,87364,68256]
+mtx:/home/data/suitesparse_collection/c-35/c-35.mtx,6537,6537,62891
+cpu_CSR time cost 0.137500 ms
+neon_CSR time cost 0.112200 ms
+CSR error:0
+neon_ell time cost 0.099300 ms
+error! tid=6187 5.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.133100 ms
+ACSR error:0
+sy_mtx time cost 0.100700 ms
+error! tid=6536 21.000000,0.000000
+symtx error:1
+kml time cost 0.134700 ms
+error! tid=0 6.000000,4.000000
+kml error:6
+partition:CSR-ELL-ACSR-SY[62891,64226,85650,68340]
+mtx:/home/data/suitesparse_collection/c-36/c-36.mtx,7479,7479,65941
+cpu_CSR time cost 0.157300 ms
+neon_CSR time cost 0.120200 ms
+CSR error:0
+neon_ell time cost 0.103900 ms
+error! tid=7232 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.152600 ms
+ACSR error:0
+sy_mtx time cost 0.104900 ms
+error! tid=7478 10.000000,0.000000
+symtx error:1
+kml time cost 0.138700 ms
+error! tid=0 14.000000,12.000000
+kml error:14
+partition:CSR-ELL-ACSR-SY[65941,66288,91244,71550]
+mtx:/home/data/suitesparse_collection/c-37/c-37.mtx,8204,8204,74676
+cpu_CSR time cost 0.177600 ms
+neon_CSR time cost 0.144900 ms
+CSR error:0
+neon_ell time cost 0.119000 ms
+ell error:0
+neon_ACSR time cost 0.170300 ms
+ACSR error:0
+sy_mtx time cost 0.121300 ms
+symtx error:0
+kml time cost 0.161100 ms
+error! tid=0 16.000000,14.000000
+kml error:16
+partition:CSR-ELL-ACSR-SY[74676,75408,105188,80892]
+mtx:/home/data/suitesparse_collection/c-38/c-38.mtx,8127,8127,77689
+cpu_CSR time cost 0.174600 ms
+neon_CSR time cost 0.136200 ms
+CSR error:0
+neon_ell time cost 0.127100 ms
+error! tid=7903 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.170500 ms
+ACSR error:0
+sy_mtx time cost 0.123400 ms
+error! tid=8126 7.000000,0.000000
+symtx error:1
+kml time cost 0.167700 ms
+error! tid=0 96.000000,94.000000
+kml error:96
+partition:CSR-ELL-ACSR-SY[77689,79386,111216,85758]
+mtx:/home/data/suitesparse_collection/c-39/c-39.mtx,9271,9271,136811
+cpu_CSR time cost 0.302500 ms
+neon_CSR time cost 0.236000 ms
+CSR error:0
+neon_ell time cost 0.211700 ms
+error! tid=9262 8.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.253900 ms
+ACSR error:0
+sy_mtx time cost 0.201500 ms
+error! tid=9270 8.000000,0.000000
+symtx error:1
+kml time cost 0.222600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[136811,138196,176904,143446]
+mtx:/home/data/suitesparse_collection/c-40/c-40.mtx,9941,9941,81501
+cpu_CSR time cost 0.200300 ms
+neon_CSR time cost 0.154500 ms
+CSR error:0
+neon_ell time cost 0.130800 ms
+error! tid=9833 14.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.190700 ms
+ACSR error:0
+sy_mtx time cost 0.123000 ms
+error! tid=9940 15.000000,0.000000
+symtx error:1
+kml time cost 0.176000 ms
+error! tid=0 214.000000,212.000000
+kml error:214
+partition:CSR-ELL-ACSR-SY[81501,82874,113486,89572]
+mtx:/home/data/suitesparse_collection/c-41/c-41.mtx,9769,9769,101745
+cpu_CSR time cost 0.230200 ms
+neon_CSR time cost 0.184000 ms
+CSR error:0
+neon_ell time cost 0.161200 ms
+error! tid=9766 10.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.217500 ms
+ACSR error:0
+sy_mtx time cost 0.163400 ms
+error! tid=9768 10.000000,0.000000
+symtx error:1
+kml time cost 0.178000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[101745,103648,137534,109772]
+mtx:/home/data/suitesparse_collection/c-42/c-42.mtx,10471,10471,110285
+cpu_CSR time cost 0.252100 ms
+neon_CSR time cost 0.196500 ms
+CSR error:0
+neon_ell time cost 0.173400 ms
+error! tid=10355 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.221100 ms
+ACSR error:0
+sy_mtx time cost 0.161700 ms
+error! tid=10470 7.000000,0.000000
+symtx error:1
+kml time cost 0.184400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[110285,111080,144340,115794]
+mtx:/home/data/suitesparse_collection/c-43/c-43.mtx,11125,11125,123675
+cpu_CSR time cost 0.286800 ms
+neon_CSR time cost 0.213300 ms
+CSR error:0
+neon_ell time cost 0.197800 ms
+error! tid=11050 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.261800 ms
+ACSR error:0
+sy_mtx time cost 0.188500 ms
+error! tid=11124 7.000000,0.000000
+symtx error:1
+kml time cost 0.201900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[123675,125384,162708,130110]
+mtx:/home/data/suitesparse_collection/c-44/c-44.mtx,10728,10728,85000
+cpu_CSR time cost 0.208500 ms
+neon_CSR time cost 0.180400 ms
+CSR error:0
+neon_ell time cost 0.140200 ms
+ell error:0
+neon_ACSR time cost 0.210800 ms
+ACSR error:0
+sy_mtx time cost 0.152800 ms
+symtx error:0
+kml time cost 0.194900 ms
+error! tid=0 18.000000,16.000000
+kml error:18
+partition:CSR-ELL-ACSR-SY[85000,85802,125474,93830]
+mtx:/home/data/suitesparse_collection/c-45/c-45.mtx,13206,13206,174452
+cpu_CSR time cost 0.390800 ms
+neon_CSR time cost 0.298300 ms
+CSR error:0
+neon_ell time cost 0.280200 ms
+ell error:0
+neon_ACSR time cost 0.335400 ms
+ACSR error:0
+sy_mtx time cost 0.254500 ms
+symtx error:0
+kml time cost 0.272000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[174452,178048,218172,180124]
+mtx:/home/data/suitesparse_collection/c-46/c-46.mtx,14913,14913,130397
+cpu_CSR time cost 0.321000 ms
+neon_CSR time cost 0.244500 ms
+CSR error:0
+neon_ell time cost 0.218700 ms
+error! tid=14857 4.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.306100 ms
+ACSR error:0
+sy_mtx time cost 0.218000 ms
+error! tid=14912 13.000000,0.000000
+symtx error:1
+kml time cost 0.295600 ms
+error! tid=0 36.000000,34.000000
+kml error:36
+partition:CSR-ELL-ACSR-SY[130397,130614,181244,138906]
+mtx:/home/data/suitesparse_collection/c-47/c-47.mtx,15343,15343,211401
+cpu_CSR time cost 0.481400 ms
+neon_CSR time cost 0.368200 ms
+CSR error:0
+neon_ell time cost 0.346500 ms
+error! tid=15015 3.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.439300 ms
+ACSR error:0
+sy_mtx time cost 0.329300 ms
+error! tid=15342 7.000000,0.000000
+symtx error:1
+kml time cost 0.349500 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[211401,214170,310100,224332]
+mtx:/home/data/suitesparse_collection/c-48/c-48.mtx,18354,18354,166080
+cpu_CSR time cost 0.404700 ms
+neon_CSR time cost 0.330000 ms
+CSR error:0
+neon_ell time cost 0.281500 ms
+ell error:0
+neon_ACSR time cost 0.395400 ms
+ACSR error:0
+sy_mtx time cost 0.298600 ms
+symtx error:0
+kml time cost 0.400200 ms
+error! tid=0 54.000000,52.000000
+kml error:54
+partition:CSR-ELL-ACSR-SY[166080,167102,236122,179356]
+mtx:/home/data/suitesparse_collection/c-49/c-49.mtx,21132,21132,157042
+cpu_CSR time cost 0.404400 ms
+neon_CSR time cost 0.364800 ms
+CSR error:0
+neon_ell time cost 0.292800 ms
+ell error:0
+neon_ACSR time cost 0.424900 ms
+ACSR error:0
+sy_mtx time cost 0.320200 ms
+symtx error:0
+kml time cost 0.402800 ms
+error! tid=0 20.000000,18.000000
+kml error:20
+partition:CSR-ELL-ACSR-SY[157042,158614,233478,172732]
+mtx:/home/data/suitesparse_collection/c-50/c-50.mtx,22401,22401,193625
+cpu_CSR time cost 0.482600 ms
+neon_CSR time cost 0.413100 ms
+CSR error:0
+neon_ell time cost 0.341200 ms
+error! tid=22016 3.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.476500 ms
+ACSR error:0
+sy_mtx time cost 0.364900 ms
+error! tid=22400 13.000000,0.000000
+symtx error:1
+kml time cost 0.474700 ms
+error! tid=0 18.000000,16.000000
+kml error:18
+partition:CSR-ELL-ACSR-SY[193625,197122,277410,209338]
+mtx:/home/data/suitesparse_collection/c-51/c-51.mtx,23196,23196,203050
+cpu_CSR time cost 0.497400 ms
+neon_CSR time cost 0.413400 ms
+CSR error:0
+neon_ell time cost 0.354000 ms
+ell error:0
+neon_ACSR time cost 0.492600 ms
+ACSR error:0
+sy_mtx time cost 0.376800 ms
+symtx error:0
+kml time cost 0.506100 ms
+error! tid=0 38.000000,36.000000
+kml error:38
+partition:CSR-ELL-ACSR-SY[203050,204690,288608,221046]
+mtx:/home/data/suitesparse_collection/c-52/c-52.mtx,23948,23948,202716
+cpu_CSR time cost 0.501000 ms
+neon_CSR time cost 0.424000 ms
+CSR error:0
+neon_ell time cost 0.359200 ms
+ell error:0
+neon_ACSR time cost 0.506400 ms
+ACSR error:0
+sy_mtx time cost 0.386600 ms
+symtx error:0
+kml time cost 0.518200 ms
+error! tid=0 18.000000,16.000000
+kml error:18
+partition:CSR-ELL-ACSR-SY[202716,204554,288368,221080]
+mtx:/home/data/suitesparse_collection/c-53/c-53.mtx,30235,30235,372213
+cpu_CSR time cost 0.893500 ms
+neon_CSR time cost 0.721000 ms
+CSR error:0
+neon_ell time cost 0.667300 ms
+error! tid=30226 10.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.785200 ms
+ACSR error:0
+sy_mtx time cost 0.623100 ms
+error! tid=30234 10.000000,0.000000
+symtx error:1
+kml time cost 0.653700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[372213,374544,479482,386998]
+mtx:/home/data/suitesparse_collection/c-54/c-54.mtx,31793,31793,391693
+cpu_CSR time cost 0.910100 ms
+neon_CSR time cost 0.730900 ms
+CSR error:0
+neon_ell time cost 0.696700 ms
+error! tid=31788 9.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.850900 ms
+ACSR error:0
+sy_mtx time cost 0.720600 ms
+error! tid=31792 13.000000,0.000000
+symtx error:1
+kml time cost 0.720700 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[391693,395020,512672,422798]
+mtx:/home/data/suitesparse_collection/c-55/c-55.mtx,32780,32780,403450
+cpu_CSR time cost 0.942200 ms
+neon_CSR time cost 0.777000 ms
+CSR error:0
+neon_ell time cost 0.731600 ms
+ell error:0
+neon_ACSR time cost 0.933100 ms
+ACSR error:0
+sy_mtx time cost 0.739200 ms
+symtx error:0
+kml time cost 0.772000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[403450,406708,565142,438304]
+mtx:/home/data/suitesparse_collection/c-56/c-56.mtx,35910,35910,380900
+cpu_CSR time cost 0.958300 ms
+neon_CSR time cost 0.781900 ms
+CSR error:0
+neon_ell time cost 0.699100 ms
+ell error:0
+neon_ACSR time cost 0.877100 ms
+ACSR error:0
+sy_mtx time cost 0.723900 ms
+symtx error:0
+kml time cost 0.789600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[380900,383890,515298,408754]
+mtx:/home/data/suitesparse_collection/c-57/c-57.mtx,37833,37833,405197
+cpu_CSR time cost 1.029900 ms
+neon_CSR time cost 0.827200 ms
+CSR error:0
+neon_ell time cost 0.790700 ms
+error! tid=37604 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.970100 ms
+ACSR error:0
+sy_mtx time cost 0.722000 ms
+error! tid=37832 10.000000,0.000000
+symtx error:1
+kml time cost 0.773800 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[405197,411248,551008,422016]
+mtx:/home/data/suitesparse_collection/c-58/c-58.mtx,37595,37595,552557
+cpu_CSR time cost 1.270900 ms
+neon_CSR time cost 1.050400 ms
+CSR error:0
+neon_ell time cost 1.008700 ms
+error! tid=37594 8.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.225800 ms
+ACSR error:0
+sy_mtx time cost 0.967000 ms
+error! tid=37594 8.000000,0.000000
+symtx error:1
+kml time cost 0.990900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[552557,561648,784134,593676]
+mtx:/home/data/suitesparse_collection/c-59/c-59.mtx,41282,41282,480536
+cpu_CSR time cost 1.179400 ms
+neon_CSR time cost 0.977600 ms
+CSR error:0
+neon_ell time cost 0.895700 ms
+ell error:0
+neon_ACSR time cost 1.147800 ms
+ACSR error:0
+sy_mtx time cost 0.917100 ms
+symtx error:0
+kml time cost 0.936300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[480536,483856,672122,515614]
+mtx:/home/data/suitesparse_collection/c-60/c-60.mtx,43640,43640,298578
+cpu_CSR time cost 0.823400 ms
+neon_CSR time cost 0.753900 ms
+CSR error:0
+neon_ell time cost 0.617900 ms
+ell error:0
+neon_ACSR time cost 0.918700 ms
+ACSR error:0
+sy_mtx time cost 0.713000 ms
+symtx error:0
+kml time cost 0.805300 ms
+error! tid=0 16.000000,14.000000
+kml error:16
+partition:CSR-ELL-ACSR-SY[298578,300950,456218,332878]
+mtx:/home/data/suitesparse_collection/c-61/c-61.mtx,43618,43618,310016
+cpu_CSR time cost 0.847200 ms
+neon_CSR time cost 0.772300 ms
+CSR error:0
+neon_ell time cost 0.637000 ms
+ell error:0
+neon_ACSR time cost 0.885000 ms
+ACSR error:0
+sy_mtx time cost 0.708000 ms
+symtx error:0
+kml time cost 0.841900 ms
+error! tid=0 17.000000,15.000000
+kml error:17
+partition:CSR-ELL-ACSR-SY[310016,312990,465266,342216]
+mtx:/home/data/suitesparse_collection/c-62/c-62.mtx,41731,41731,559343
+cpu_CSR time cost 1.331000 ms
+neon_CSR time cost 1.131000 ms
+CSR error:0
+neon_ell time cost 1.041900 ms
+error! tid=41496 10.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.306700 ms
+ACSR error:0
+sy_mtx time cost 1.061500 ms
+error! tid=41730 19.000000,0.000000
+symtx error:1
+kml time cost 1.079000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[559343,567618,795416,617396]
+mtx:/home/data/suitesparse_collection/c-62ghs/c-62ghs.mtx,41731,41731,559343
+cpu_CSR time cost 1.329700 ms
+neon_CSR time cost 1.125000 ms
+CSR error:0
+neon_ell time cost 1.063500 ms
+error! tid=41496 10.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.315100 ms
+ACSR error:0
+sy_mtx time cost 1.068100 ms
+error! tid=41730 19.000000,0.000000
+symtx error:1
+kml time cost 1.050900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[559343,567618,795416,617396]
+mtx:/home/data/suitesparse_collection/c-63/c-63.mtx,44234,44234,434704
+cpu_CSR time cost 1.108600 ms
+neon_CSR time cost 0.929700 ms
+CSR error:0
+neon_ell time cost 0.841300 ms
+ell error:0
+neon_ACSR time cost 1.136600 ms
+ACSR error:0
+sy_mtx time cost 0.924700 ms
+symtx error:0
+kml time cost 1.126900 ms
+error! tid=0 14.000000,12.000000
+kml error:14
+partition:CSR-ELL-ACSR-SY[434704,438228,612292,475096]
+mtx:/home/data/suitesparse_collection/c-64/c-64.mtx,51035,51035,717841
+cpu_CSR time cost 1.746300 ms
+neon_CSR time cost 1.360700 ms
+CSR error:0
+neon_ell time cost 1.363000 ms
+error! tid=50996 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.515100 ms
+ACSR error:0
+sy_mtx time cost 1.195000 ms
+error! tid=51034 7.000000,0.000000
+symtx error:1
+kml time cost 1.248900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[717841,719882,891556,747438]
+mtx:/home/data/suitesparse_collection/c-64b/c-64b.mtx,51035,51035,717841
+cpu_CSR time cost 1.734600 ms
+neon_CSR time cost 1.389900 ms
+CSR error:0
+neon_ell time cost 1.362300 ms
+error! tid=50996 7.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.467100 ms
+ACSR error:0
+sy_mtx time cost 1.190500 ms
+error! tid=51034 7.000000,0.000000
+symtx error:1
+kml time cost 1.241100 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[717841,719882,891556,747438]
+mtx:/home/data/suitesparse_collection/c-65/c-65.mtx,48066,48066,360528
+cpu_CSR time cost 0.988100 ms
+neon_CSR time cost 0.886200 ms
+CSR error:0
+neon_ell time cost 0.735000 ms
+ell error:0
+neon_ACSR time cost 1.037300 ms
+ACSR error:0
+sy_mtx time cost 0.837000 ms
+symtx error:0
+kml time cost 0.952300 ms
+error! tid=0 30.000000,28.000000
+kml error:30
+partition:CSR-ELL-ACSR-SY[360528,364156,531798,400578]
+mtx:/home/data/suitesparse_collection/c-66/c-66.mtx,49989,49989,499007
+cpu_CSR time cost 1.345900 ms
+neon_CSR time cost 1.142500 ms
+CSR error:0
+neon_ell time cost 0.988500 ms
+error! tid=49845 5.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.251900 ms
+ACSR error:0
+sy_mtx time cost 1.027000 ms
+error! tid=49988 8.000000,0.000000
+symtx error:1
+kml time cost 1.273600 ms
+error! tid=0 68.000000,66.000000
+kml error:68
+partition:CSR-ELL-ACSR-SY[499007,507294,691062,530754]
+mtx:/home/data/suitesparse_collection/c-66b/c-66b.mtx,49989,49989,499007
+cpu_CSR time cost 1.314000 ms
+neon_CSR time cost 1.114400 ms
+CSR error:0
+neon_ell time cost 1.018900 ms
+error! tid=49845 5.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.239100 ms
+ACSR error:0
+sy_mtx time cost 1.012800 ms
+error! tid=49988 8.000000,0.000000
+symtx error:1
+kml time cost 1.231300 ms
+error! tid=0 68.000000,66.000000
+kml error:68
+partition:CSR-ELL-ACSR-SY[499007,507294,691062,530754]
+mtx:/home/data/suitesparse_collection/c-67/c-67.mtx,57975,57975,531935
+cpu_CSR time cost 1.432700 ms
+neon_CSR time cost 1.356200 ms
+CSR error:0
+neon_ell time cost 1.102300 ms
+error! tid=57914 15.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.413500 ms
+ACSR error:0
+sy_mtx time cost 1.120900 ms
+error! tid=57974 15.000000,0.000000
+symtx error:1
+kml time cost 1.437600 ms
+error! tid=0 59.000000,57.000000
+kml error:59
+partition:CSR-ELL-ACSR-SY[531935,535398,744002,577156]
+mtx:/home/data/suitesparse_collection/c-67b/c-67b.mtx,57975,57975,531935
+cpu_CSR time cost 1.415800 ms
+neon_CSR time cost 1.185200 ms
+CSR error:0
+neon_ell time cost 1.069100 ms
+error! tid=57914 15.000000,0.000000
+ell error:1
+neon_ACSR time cost 1.418300 ms
+ACSR error:0
+sy_mtx time cost 1.180000 ms
+error! tid=57974 15.000000,0.000000
+symtx error:1
+kml time cost 1.466200 ms
+error! tid=0 59.000000,57.000000
+kml error:59
+partition:CSR-ELL-ACSR-SY[531935,535398,744002,577156]
+mtx:/home/data/suitesparse_collection/c-68/c-68.mtx,64810,64810,566006
+cpu_CSR time cost 1.556600 ms
+neon_CSR time cost 1.331700 ms
+CSR error:0
+neon_ell time cost 1.200700 ms
+ell error:0
+neon_ACSR time cost 1.653900 ms
+ACSR error:0
+sy_mtx time cost 1.279900 ms
+symtx error:0
+kml time cost 1.496100 ms
+error! tid=0 18.000000,16.000000
+kml error:18
+partition:CSR-ELL-ACSR-SY[566006,569316,851822,634552]
+mtx:/home/data/suitesparse_collection/c-69/c-69.mtx,67458,67458,623970
+cpu_CSR time cost 1.698000 ms
+neon_CSR time cost 1.413000 ms
+CSR error:0
+neon_ell time cost 1.306500 ms
+ell error:0
+neon_ACSR time cost 1.714900 ms
+ACSR error:0
+sy_mtx time cost 1.320100 ms
+symtx error:0
+kml time cost 1.604100 ms
+error! tid=0 50.000000,48.000000
+kml error:50
+partition:CSR-ELL-ACSR-SY[623970,628680,892064,680874]
+mtx:/home/data/suitesparse_collection/c-70/c-70.mtx,68924,68924,658986
+cpu_CSR time cost 1.761000 ms
+neon_CSR time cost 1.509300 ms
+CSR error:0
+neon_ell time cost 1.373800 ms
+ell error:0
+neon_ACSR time cost 1.784500 ms
+ACSR error:0
+sy_mtx time cost 1.372300 ms
+symtx error:0
+kml time cost 1.708200 ms
+error! tid=0 32.000000,30.000000
+kml error:32
+partition:CSR-ELL-ACSR-SY[658986,663718,939794,718584]
+mtx:/home/data/suitesparse_collection/c-71/c-71.mtx,76638,76638,859554
+cpu_CSR time cost 2.211800 ms
+neon_CSR time cost 1.899900 ms
+CSR error:0
+neon_ell time cost 1.803700 ms
+ell error:0
+neon_ACSR time cost 2.249500 ms
+ACSR error:0
+sy_mtx time cost 1.759900 ms
+symtx error:0
+kml time cost 1.853300 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[859554,867244,1219888,942274]
+mtx:/home/data/suitesparse_collection/c-72/c-72.mtx,84064,84064,707558
+cpu_CSR time cost 1.961000 ms
+neon_CSR time cost 1.678100 ms
+CSR error:0
+neon_ell time cost 1.479900 ms
+ell error:0
+neon_ACSR time cost 1.978800 ms
+ACSR error:0
+sy_mtx time cost 1.599000 ms
+symtx error:0
+kml time cost 1.922300 ms
+error! tid=0 12.000000,10.000000
+kml error:12
+partition:CSR-ELL-ACSR-SY[707558,713018,1026812,766060]
+mtx:/home/data/suitesparse_collection/c-73/c-73.mtx,169422,169422,1279274
+cpu_CSR time cost 3.971100 ms
+neon_CSR time cost 3.447600 ms
+CSR error:0
+neon_ell time cost 3.345500 ms
+ell error:0
+neon_ACSR time cost 4.458800 ms
+ACSR error:0
+sy_mtx time cost 3.795400 ms
+symtx error:0
+kml time cost 3.986200 ms
+error! tid=0 284.000000,282.000000
+kml error:284
+partition:CSR-ELL-ACSR-SY[1279274,1320652,2086396,1541662]
+mtx:/home/data/suitesparse_collection/c-73b/c-73b.mtx,169422,169422,1279274
+cpu_CSR time cost 3.997200 ms
+neon_CSR time cost 3.457400 ms
+CSR error:0
+neon_ell time cost 3.351500 ms
+ell error:0
+neon_ACSR time cost 4.460200 ms
+ACSR error:0
+sy_mtx time cost 3.673900 ms
+symtx error:0
+kml time cost 3.798600 ms
+error! tid=0 284.000000,282.000000
+kml error:284
+partition:CSR-ELL-ACSR-SY[1279274,1320652,2086396,1541662]
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+matrix is not real
+matrix is too small or big
+mtx:/home/data/suitesparse_collection/cage10/cage10.mtx,11397,11397,150645
+cpu_CSR time cost 0.273100 ms
+neon_CSR time cost 0.261100 ms
+CSR error:0
+neon_ell time cost 0.235900 ms
+error! tid=11347 14.000000,0.000000
+ell error:1
+neon_ACSR time cost 0.332600 ms
+ACSR error:0
+sy_mtx time cost 0.283300 ms
+error! tid=11396 21.000000,0.000000
+symtx error:1
+kml time cost 0.243400 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[150645,150648,264882,178226]
+mtx:/home/data/suitesparse_collection/cage11/cage11.mtx,39082,39082,559722
+cpu_CSR time cost 1.094400 ms
+neon_CSR time cost 1.071300 ms
+CSR error:0
+neon_ell time cost 0.977200 ms
+ell error:0
+neon_ACSR time cost 1.437700 ms
+ACSR error:0
+sy_mtx time cost 1.200100 ms
+symtx error:0
+kml time cost 0.941900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[559722,559784,993872,660240]
+mtx:/home/data/suitesparse_collection/cage12/cage12.mtx,130228,130228,2032536
+cpu_CSR time cost 4.400700 ms
+neon_CSR time cost 4.971200 ms
+CSR error:0
+neon_ell time cost 4.156400 ms
+ell error:0
+neon_ACSR time cost 6.509200 ms
+ACSR error:0
+sy_mtx time cost 5.915300 ms
+symtx error:0
+kml time cost 3.951600 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[2032536,2033120,3642206,2493378]
+mtx:/home/data/suitesparse_collection/cage13/cage13.mtx,445315,445315,7479343
+cpu_CSR time cost 19.769700 ms
+neon_CSR time cost 19.926700 ms
+CSR error:0
+neon_ell time cost 19.086900 ms
+error! tid=444989 11.000000,0.000000
+ell error:1
+neon_ACSR time cost 24.897100 ms
+ACSR error:0
+sy_mtx time cost 21.610600 ms
+error! tid=445314 15.000000,0.000000
+symtx error:1
+kml time cost 14.517000 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[7479343,7481572,13505090,9148574]
+mtx:/home/data/suitesparse_collection/cage14/cage14.mtx,1505785,1505785,27130349
+cpu_CSR time cost 78.260600 ms
+neon_CSR time cost 77.512300 ms
+CSR error:0
+neon_ell time cost 74.648400 ms
+error! tid=1505550 21.000000,0.000000
+ell error:1
+neon_ACSR time cost 150.895900 ms
+ACSR error:0
+sy_mtx time cost 78.046700 ms
+error! tid=1505784 29.000000,0.000000
+symtx error:1
+kml time cost 52.939900 ms
+kml error:0
+partition:CSR-ELL-ACSR-SY[27130349,27133024,49305768,31257958]
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+matrix is too small or big
+mtx:/home/data/suites
